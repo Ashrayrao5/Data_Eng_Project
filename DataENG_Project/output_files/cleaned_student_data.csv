@@ -1,0 +1,1001 @@
+student_id,name,age,gender,grade,major,enrollment_date,days_enrolled,has_valid_age,has_valid_enrollment_date
+1,John Clark,20,F,A+,Biology,,,True,False
+2,Anthony Rice,24,M,D,,2021-10-31,1542,True,True
+3,Tammy Ramirez,,F,D,Biology,,,False,False
+4,Kari Nguyen,20,M,B,History,,,True,False
+5,Danielle Mccann,20,F,C,History,,,True,False
+6,Thomas Rivera,20,F,F,Computer Science,,,True,False
+7,Daniel Williams,,,B,Biology,,,False,False
+8,Gwendolyn Davis,20,F,B,Physics,2025-04-11,284,True,True
+9,Thomas Charles,18,M,D,Computer Science,2025-12-31,20,True,True
+10,Brian Bryan,,F,B,Mathematics,2025-12-31,20,False,True
+11,Jamie Bowen,,,B,Computer Science,2024-11-29,417,False,True
+12,Amy Manning,,M,A,History,,,False,False
+13,Theresa Wood,,M,F,Computer Science,,,False,False
+14,Brenda Sloan,,F,A,Computer Science,2025-12-31,20,False,True
+15,Chelsey Nelson Dvm,20,F,A+,Mathematics,2025-12-31,20,True,True
+16,Brent Chan,,M,C,Mathematics,,,False,False
+17,Lisa Shaffer,,M,B,Computer Science,2024-10-22,455,False,True
+18,Mike Reynolds,20,F,A,Physics,,,True,False
+19,Sean Wood,,F,C,History,2025-12-31,20,False,True
+20,Lisa Mcknight,19,,A,Biology,,,True,False
+21,Jonathan Blackwell,17,,A,History,,,True,False
+22,Joshua Sanchez,,F,D,History,,,False,False
+23,Briana Beltran,,M,B,Biology,,,False,False
+24,Heather Friedman,,,F,Mathematics,2025-12-31,20,False,True
+25,Emily Williams,,F,B,Biology,2020-05-12,2079,False,True
+26,Miss Hannah Collins,,F,A,Computer Science,2023-05-31,965,False,True
+27,Francisco Contreras,20,M,F,Mathematics,,,True,False
+28,Anthony Alexander,26,,A,,,,True,False
+29,Sierra Crawford Dds,,M,F,Biology,,,False,False
+30,Tiffany Rivas,30,M,F,Mathematics,,,True,False
+31,Jessica Dickerson,20,F,F,Physics,,,True,False
+32,Karen Williams,30,,D,Mathematics,,,True,False
+33,Tim Holmes,,,C,History,,,False,False
+34,Katie Stewart,,,F,Biology,,,False,False
+35,Amber Hernandez,20,M,B,Physics,2025-12-31,20,True,True
+36,Kenneth Reynolds,20,,A,Physics,,,True,False
+37,Tammy Garza,20,M,D,Biology,,,True,False
+38,Kimberly Mccormick,,F,F,History,,,False,False
+39,Dr. Andrew Campbell,,,C,Biology,,,False,False
+40,Robert Johnson,20,M,F,Mathematics,2025-12-31,20,True,True
+41,Bradley Harris,20,,C,Mathematics,,,True,False
+42,Heather Miller,,F,F,Biology,2025-12-31,20,False,True
+43,John Martinez,20,F,D,Computer Science,,,True,False
+44,Stacey Green,22,M,A,History,2025-01-21,364,True,True
+45,Steven Woodard,,F,D,Physics,2025-12-31,20,False,True
+46,Scott Cooley,,F,F,Physics,,,False,False
+47,Sean Solomon,,F,C,Physics,,,False,False
+48,Suzanne Williams,25,M,D,Computer Science,,,True,False
+49,Courtney Garcia,20,M,F,Mathematics,,,True,False
+50,Charles Gibbs,,F,D,Mathematics,2022-04-11,1380,False,True
+51,Joseph Miller,28,F,B,History,,,True,False
+52,Mr. Carlos Lee,20,F,A,,,,True,False
+53,James Tucker,,M,B,Biology,2024-09-30,477,False,True
+54,Nicole Ellis,,,D,Mathematics,,,False,False
+55,Michael Walker,20,F,A+,Computer Science,,,True,False
+56,Katherine Andrews,,F,F,History,,,False,False
+57,Darlene Buck,17,M,F,Biology,2023-04-21,1005,True,True
+58,Steven Brown,30,M,B,,,,True,False
+59,Stephanie Nguyen,20,F,D,Computer Science,,,True,False
+60,Cameron Herrera,24,M,A,Mathematics,,,True,False
+61,Patricia Holmes,,M,D,Physics,,,False,False
+62,Zachary Steele,24,M,C,History,,,True,False
+63,Allison Patrick Md,19,F,B,Mathematics,,,True,False
+64,Damon Jones,30,F,F,Biology,,,True,False
+65,John Harding,24,M,D,Computer Science,,,True,False
+66,James Estes,20,F,B,History,2025-03-05,321,True,True
+67,Edward Webster,24,F,B,,,,True,False
+68,Marcus Beard,20,F,F,Computer Science,2025-07-16,188,True,True
+69,Sierra Holmes,,F,F,Computer Science,2020-09-19,1949,False,True
+70,Daniel Mendoza,20,,A,History,,,True,False
+71,Tracy Ruiz,27,M,A+,Mathematics,2025-12-31,20,True,True
+72,Manuel Clark,18,,B,,2025-12-31,20,True,True
+73,Danielle Johnson,28,M,B,,2024-07-09,560,True,True
+74,Keith Cummings,28,M,A+,Computer Science,,,True,False
+75,Dawn Edwards,,,F,Computer Science,,,False,False
+76,Beth Wise,,,A,,2025-12-31,20,False,True
+77,Jennifer Gray,26,M,F,Biology,2025-12-31,20,True,True
+78,Lori Booth,,,D,Physics,2025-12-31,20,False,True
+79,Carla Rivera,,F,D,Physics,2025-12-31,20,False,True
+80,Richard Manning,20,,C,Computer Science,2021-02-22,1793,True,True
+81,Hunter Williams,20,M,C,Physics,,,True,False
+82,Marissa Collier,,M,B,Computer Science,2025-12-31,20,False,True
+83,John Clark,20,F,F,History,2025-06-30,204,True,True
+84,Belinda Taylor,,M,B,Physics,,,False,False
+85,Christopher Jackson,,F,A+,Computer Science,2025-03-30,296,False,True
+86,David Martinez,,M,B,History,,,False,False
+87,Joanna Schultz,,M,A+,Biology,,,False,False
+88,Sheri White,17,M,C,Computer Science,2025-03-09,317,True,True
+89,Crystal Fleming Md,,M,F,History,,,False,False
+90,Luis Henry,,M,F,Physics,,,False,False
+91,James Cunningham,,,D,Physics,,,False,False
+92,Michael Wagner,22,M,A,Mathematics,,,True,False
+93,Joel Strong,,,B,Physics,2025-12-31,20,False,True
+94,Breanna Gonzalez,20,M,C,Computer Science,,,True,False
+95,Adam Kerr,20,F,F,History,2025-12-31,20,True,True
+96,James Peterson,20,M,B,Physics,2021-08-13,1621,True,True
+97,Dylan West,20,M,A,Physics,2022-05-15,1346,True,True
+98,Renee Gomez,,F,C,,2025-12-31,20,False,True
+99,Jackie Moran,20,M,F,Biology,2025-10-19,93,True,True
+100,Sara Jackson,27,F,F,Computer Science,,,True,False
+101,Amber Wolf,,F,C,Physics,2022-07-02,1298,False,True
+102,Morgan Flowers,26,F,C,Mathematics,2025-12-31,20,True,True
+103,Eric Gould,27,F,B,Computer Science,,,True,False
+104,Xavier Obrien,18,F,D,Biology,,,True,False
+105,Elizabeth Nguyen,20,M,B,History,,,True,False
+106,Heather Hernandez,21,F,F,Computer Science,2022-09-13,1225,True,True
+107,Christopher Curtis,,F,F,Computer Science,2025-12-31,20,False,True
+108,Charles Mckinney,,M,F,Physics,2025-12-31,20,False,True
+109,Kevin Marshall,,,D,History,2025-12-31,20,False,True
+110,Michele Morgan,,,F,Computer Science,2023-04-27,999,False,True
+111,Casey Thornton,20,,C,Mathematics,,,True,False
+112,Monica Hubbard,20,F,F,,2023-09-13,860,True,True
+113,Steven Solis,20,F,A+,Computer Science,,,True,False
+114,Janice Rowland,,M,F,Computer Science,,,False,False
+115,Andrea Hunt,22,M,B,Biology,2025-12-31,20,True,True
+116,Sean Anderson,20,,F,Mathematics,,,True,False
+117,Jacqueline Eaton,20,F,A+,Biology,2025-07-29,175,True,True
+118,Earl Gomez,18,F,A+,Computer Science,2025-12-31,20,True,True
+119,Chelsea Phillips,18,,A+,Computer Science,,,True,False
+120,Douglas Hill,,F,F,Biology,,,False,False
+121,Theresa Garcia,20,M,A+,Biology,,,True,False
+122,Alyssa Thompson,,,C,History,,,False,False
+123,Michael Moore,,F,D,History,2021-05-13,1713,False,True
+124,Mia Mercado,29,M,F,Physics,2025-12-31,20,True,True
+125,Vincent Rollins,,M,F,,,,False,False
+126,Jeffrey Scott,,F,B,Biology,,,False,False
+127,Gary Phillips,20,F,A,Computer Science,,,True,False
+128,Rodney Price,17,M,C,Mathematics,2021-03-12,1775,True,True
+129,Amy Harper,30,M,C,,,,True,False
+130,Harold Andrews,26,M,A+,Biology,2025-12-31,20,True,True
+131,Ellen Leon,20,M,D,Mathematics,2020-05-13,2078,True,True
+132,Pamela Bailey,,M,C,Computer Science,,,False,False
+133,Todd Arroyo,,,B,History,2021-10-01,1572,False,True
+134,Emily Marquez,,M,A+,Biology,2025-12-31,20,False,True
+135,Miguel Williams,17,,C,,2025-12-31,20,True,True
+136,Christopher Lee,,F,A+,Physics,,,False,False
+137,Amy Bautista,21,F,F,Mathematics,2022-04-25,1366,True,True
+138,Eric Lara,20,F,D,History,,,True,False
+139,Michelle Hall,21,M,D,,,,True,False
+140,Maria Bailey,,F,A+,Mathematics,,,False,False
+141,Brooke Cooper,,F,A,Biology,2020-11-29,1878,False,True
+142,Jennifer Lee,24,M,B,,,,True,False
+143,Cynthia Baldwin,26,M,A,Physics,,,True,False
+144,Daniel Ball,,F,C,,2025-12-31,20,False,True
+145,Eric Thomas,,F,D,Computer Science,,,False,False
+146,Andrew Schultz,,M,A,Computer Science,,,False,False
+147,Stacy Valenzuela Phd,,M,F,,,,False,False
+148,Gregory Jarvis,,F,B,,2025-12-31,20,False,True
+149,Sally Booker,,,C,,2025-12-23,28,False,True
+150,Heather Richardson,,F,D,Mathematics,,,False,False
+151,Angela Adams,20,,B,Physics,,,True,False
+152,Jonathan Yu,,M,A+,Biology,,,False,False
+153,Christina Gonzalez,,F,D,Mathematics,,,False,False
+154,Donna Garcia,,F,A,Mathematics,,,False,False
+155,Christopher Trujillo,,M,F,Mathematics,2023-08-13,891,False,True
+156,Mr. Jason Davila,20,F,C,History,2025-12-31,20,True,True
+157,Noah Williams,,F,F,,,,False,False
+158,Miranda Williams,20,M,B,Computer Science,,,True,False
+159,Micheal Ward,,F,D,History,,,False,False
+160,Curtis Martinez,,F,A+,Computer Science,2020-07-20,2010,False,True
+161,Edward Pennington,,M,F,History,2025-12-31,20,False,True
+162,Stacy Johnson,,F,D,History,2021-07-24,1641,False,True
+163,Beth Carter,20,F,A,,2025-12-31,20,True,True
+164,Courtney Mclean,,F,A+,Physics,,,False,False
+165,Emily Willis,,,F,Physics,2020-05-31,2060,False,True
+166,Jean Downs,,,F,Biology,2022-01-17,1464,False,True
+167,Kevin Jones,24,M,D,Mathematics,,,True,False
+168,Samantha Harmon,29,M,A,Physics,,,True,False
+169,Nicholas Williams,,F,A+,Biology,2025-12-31,20,False,True
+170,Jesse Washington,20,F,A,Physics,2021-11-26,1516,True,True
+171,Philip Miller,29,F,D,Physics,2025-05-14,251,True,True
+172,Matthew Mathews,20,M,A,Physics,,,True,False
+173,Christopher Chavez,,M,A+,History,2022-11-10,1167,False,True
+174,Brenda Joseph,19,M,C,Computer Science,,,True,False
+175,Lindsey Hunt,,M,D,,2022-05-12,1349,False,True
+176,Michael Singh,,,B,Physics,,,False,False
+177,Beth Mullins Md,,F,F,,,,False,False
+178,Scott Mcclain,,,B,Biology,,,False,False
+179,Karen Ward Md,,,B,History,,,False,False
+180,Michelle Alexander,,M,B,Biology,2025-12-31,20,False,True
+181,Jennifer Hall,20,M,A+,History,,,True,False
+182,Michael Molina,,F,F,,,,False,False
+183,Daniel Irwin,20,,A+,History,,,True,False
+184,Roger Austin,,,B,History,,,False,False
+185,Kevin Taylor,,F,C,History,2023-12-14,768,False,True
+186,Michael Smith,,F,A+,Biology,,,False,False
+187,Catherine Martin,,,F,Computer Science,2025-12-31,20,False,True
+188,Lisa Hernandez,17,M,A+,Computer Science,,,True,False
+189,Carolyn Martinez,20,F,B,Physics,2025-12-31,20,True,True
+190,Brandy Strickland,,,F,Biology,2020-05-20,2071,False,True
+191,Darrell Smith,20,M,C,Physics,,,True,False
+192,Sheila Stewart,17,M,A,Biology,,,True,False
+193,Rachel Esparza,,F,F,Biology,2023-04-16,1010,False,True
+194,Mary Young,20,F,F,Biology,,,True,False
+195,Morgan Taylor,,F,A,Mathematics,2020-11-29,1878,False,True
+196,Melissa Casey,20,F,F,History,,,True,False
+197,Jeffrey White,,F,F,,,,False,False
+198,Jesse Miller,,F,A,Physics,,,False,False
+199,Desiree Vasquez,,,B,History,2025-12-31,20,False,True
+200,James Hale,,M,F,History,,,False,False
+201,Charles Miller,20,M,D,,2021-06-15,1680,True,True
+202,Stephanie Johnson,21,F,F,Biology,2021-11-19,1523,True,True
+203,Patrick Lopez,18,F,A,Computer Science,2021-12-16,1496,True,True
+204,Charles Williams,,M,A+,Physics,2024-08-09,529,False,True
+205,Scott Garcia,,,D,Biology,,,False,False
+206,Nicole Anderson,20,,F,History,,,True,False
+207,John Davis,20,F,D,Physics,2025-12-31,20,True,True
+208,Aaron Pena,20,M,A,Biology,,,True,False
+209,Shelby Barber,24,M,D,Mathematics,2025-12-31,20,True,True
+210,Martin Mendez,,M,F,Biology,2025-12-31,20,False,True
+211,Kevin Phillips,30,M,A+,Mathematics,2025-12-31,20,True,True
+212,Jason Pittman,,F,F,History,2025-12-31,20,False,True
+213,Thomas Hart,30,,A,,,,True,False
+214,Kimberly Mendoza,,M,D,Biology,2024-06-24,575,False,True
+215,Brenda Davis,,,B,Mathematics,2025-12-31,20,False,True
+216,Matthew Francis,,M,A+,Biology,2023-06-09,956,False,True
+217,Michelle Morgan,,M,C,,2025-12-31,20,False,True
+218,Dr. Timothy Ramirez,20,M,D,History,,,True,False
+219,Jeff Sullivan,30,M,F,History,,,True,False
+220,Paula Campbell,,F,B,Mathematics,,,False,False
+221,Jill Campos,25,F,A,History,2025-12-31,20,True,True
+222,Christopher Mitchell,,F,A+,History,,,False,False
+223,Kristen Freeman,22,,C,History,,,True,False
+224,Joseph Sanders,,M,B,Biology,,,False,False
+225,Cody Hendricks,20,,C,Mathematics,,,True,False
+226,Kenneth Diaz,26,F,D,Computer Science,2025-12-31,20,True,True
+227,Nicholas Watts,,,F,,,,False,False
+228,Laura Leach,20,M,A+,Biology,2021-10-30,1543,True,True
+229,Micheal Phillips,,M,A,Computer Science,2025-12-31,20,False,True
+230,Christine Sims,,M,A,,2023-10-05,838,False,True
+231,Brad Berg,20,M,B,,,,True,False
+232,Anna Taylor,,F,C,Computer Science,2025-12-31,20,False,True
+233,Veronica Meadows,20,,D,Mathematics,,,True,False
+234,Jessica Sherman,,F,F,History,2021-10-08,1565,False,True
+235,Sarah Mays,20,,A,History,2025-12-31,20,True,True
+236,Elizabeth Pierce,17,F,A,Physics,,,True,False
+237,Michael Hudson,,,F,Biology,,,False,False
+238,Pamela Chavez,,,A+,Computer Science,2025-12-31,20,False,True
+239,Natalie Haney Dvm,20,F,F,Computer Science,,,True,False
+240,Carolyn Ford,25,,A+,Physics,,,True,False
+241,Nicholas Chung,,M,F,,,,False,False
+242,Trevor Johnson,,F,A,History,,,False,False
+243,Amy Byrd,20,M,B,Computer Science,2022-01-12,1469,True,True
+244,Laura Williams,18,,F,Biology,2020-09-11,1957,True,True
+245,Olivia Ball,,F,A,Biology,2025-12-31,20,False,True
+246,Ryan Salazar Dds,,F,A,Biology,2020-11-05,1902,False,True
+247,Erin Briggs,21,F,F,,,,True,False
+248,David Meyers,,F,A,Mathematics,,,False,False
+249,Katherine Walker,20,M,C,Biology,,,True,False
+250,Taylor Stewart,,M,D,Physics,,,False,False
+251,John Perez,,M,D,History,2025-12-31,20,False,True
+252,Thomas Ritter,,M,C,Computer Science,2025-12-31,20,False,True
+253,Crystal Smith,,,B,,2021-10-29,1544,False,True
+254,Bill Sutton,20,F,F,History,2025-12-31,20,True,True
+255,George Dyer,17,M,A,Mathematics,,,True,False
+256,Kathy Johnson,20,F,D,Mathematics,,,True,False
+257,George Lewis,,M,D,History,,,False,False
+258,Leslie Wilson,20,M,B,Mathematics,2024-06-13,586,True,True
+259,Jacqueline Randolph Md,20,F,A+,Mathematics,,,True,False
+260,Alexander Sanchez,,F,C,History,,,False,False
+261,Tiffany Thomas,20,F,D,,2024-06-28,571,True,True
+262,Kimberly Woods,20,F,F,Mathematics,,,True,False
+263,Jill Lee,,,A+,Computer Science,2025-12-31,20,False,True
+264,Lisa White,,F,D,Computer Science,2025-12-31,20,False,True
+265,Andrew Erickson,29,M,F,Physics,2021-05-26,1700,True,True
+266,Melissa Reese,,F,B,,2025-12-31,20,False,True
+267,Elizabeth Robinson,,,D,Biology,,,False,False
+268,William Goodwin,20,F,F,Physics,,,True,False
+269,Ronald Blake,,M,F,Computer Science,,,False,False
+270,Mr. David Cochran,25,M,A,Biology,2025-12-31,20,True,True
+271,James Martinez,,F,C,Physics,,,False,False
+272,Michael Jackson,20,M,F,Computer Science,2023-08-08,896,True,True
+273,Kristin Olsen,,M,B,Physics,,,False,False
+274,Abigail Austin,,M,B,Mathematics,2025-12-31,20,False,True
+275,Michelle Brown,20,,A+,Computer Science,,,True,False
+276,Melissa Arnold,,,C,Biology,,,False,False
+277,Bonnie Campos,27,,F,Biology,2025-12-31,20,True,True
+278,Patrick Orozco,30,M,A,Mathematics,2025-12-31,20,True,True
+279,John Murphy,,M,B,Biology,,,False,False
+280,Beth Wolfe,,M,B,Physics,2025-12-31,20,False,True
+281,Tammy Lindsey,,M,B,Physics,,,False,False
+282,Wendy Hernandez,20,F,D,Mathematics,,,True,False
+283,Dana Rivera,18,,A+,Mathematics,2024-08-19,519,True,True
+284,Michael Miller,,F,F,Computer Science,,,False,False
+285,Shelby Schultz Dds,20,,C,Mathematics,2025-12-31,20,True,True
+286,Maria Powell,20,M,D,Computer Science,2025-12-31,20,True,True
+287,Anthony Chavez,,F,A,Mathematics,2025-09-05,137,False,True
+288,Scott Obrien,20,M,F,Computer Science,2025-12-31,20,True,True
+289,Brittany Flores,20,M,F,History,,,True,False
+290,Adam Salinas,30,,F,Biology,,,True,False
+291,Karen Hall,22,M,A,Mathematics,2025-12-31,20,True,True
+292,Jennifer Kent Dds,,M,F,,2025-12-31,20,False,True
+293,Carla Thomas,20,F,C,Physics,2025-12-31,20,True,True
+294,Jennifer Reyes,20,F,D,Computer Science,,,True,False
+295,Danielle Wheeler,,F,F,History,2022-01-13,1468,False,True
+296,John Davis,,F,A,History,2023-01-07,1109,False,True
+297,Darlene Nunez,,F,F,Mathematics,2024-10-02,475,False,True
+298,Amanda Ballard,,F,B,Mathematics,2025-12-31,20,False,True
+299,Ariel Delgado,,F,A,,2025-12-31,20,False,True
+300,Vanessa Edwards,,M,F,,2023-08-17,887,False,True
+301,George Brown,,F,B,,,,False,False
+302,Laura Perkins,,M,F,,2023-03-13,1044,False,True
+303,Adam Jackson,28,F,A,Physics,2025-12-31,20,True,True
+304,Amy Ward Dds,,F,A,Computer Science,2025-08-07,166,False,True
+305,Larry Ross,21,,A+,Biology,2025-12-31,20,True,True
+306,Thomas Cole,20,M,D,Biology,,,True,False
+307,Michele Lloyd,,M,B,,2023-08-23,881,False,True
+308,Teresa Davis,,F,A+,Mathematics,2023-10-25,818,False,True
+309,Dorothy Mata,,M,C,Biology,,,False,False
+310,Michele Mitchell,,M,D,,,,False,False
+311,Adam Douglas,,F,B,Physics,,,False,False
+312,Gregory Dillon,,F,A+,Physics,,,False,False
+313,Douglas Gutierrez,20,M,C,Computer Science,,,True,False
+314,Kyle Cole,,,B,Computer Science,,,False,False
+315,Carolyn Richardson,,F,F,Biology,,,False,False
+316,Wanda Espinoza,20,M,B,Mathematics,2025-12-31,20,True,True
+317,Justin Lynch,,M,F,Physics,2020-09-29,1939,False,True
+318,Stephanie Jones,20,M,D,Computer Science,,,True,False
+319,Mark Patel,20,M,C,,,,True,False
+320,Daniel Pena,,,A,,2021-04-20,1736,False,True
+321,Alejandra Long,25,M,D,,,,True,False
+322,Lauren Jefferson,,,F,Mathematics,,,False,False
+323,Sean Perez,24,F,F,Biology,,,True,False
+324,Haley White,20,,F,Computer Science,2021-01-15,1831,True,True
+325,Jonathan Simon,,,F,Mathematics,,,False,False
+326,Christopher Daniels,20,M,F,Biology,,,True,False
+327,Adam Lowe,,,F,Computer Science,,,False,False
+328,Albert Martinez,30,,A,Physics,,,True,False
+329,Katie Rodriguez,20,F,F,History,,,True,False
+330,David Gonzales,,M,A,Physics,,,False,False
+331,Daniel Bush,,,B,Physics,2025-12-31,20,False,True
+332,Steven Collins,,M,F,History,2020-11-27,1880,False,True
+333,Jeffrey Brown,20,M,C,,,,True,False
+334,Joseph Schultz,25,F,A,Physics,2025-03-25,301,True,True
+335,Angel Lee,20,F,C,Mathematics,2025-12-31,20,True,True
+336,Molly Bailey,,M,D,History,2023-03-06,1051,False,True
+337,Mark Dixon,,F,A,Computer Science,2020-12-01,1876,False,True
+338,Mark Gillespie,,F,F,Mathematics,2025-12-31,20,False,True
+339,Theresa Decker,,,C,Computer Science,2023-11-30,782,False,True
+340,Alex Collins,,,A,History,,,False,False
+341,Sherri Brown,20,M,F,Biology,2024-04-16,644,True,True
+342,Stephanie Gonzalez,,,C,Physics,2023-04-04,1022,False,True
+343,Victoria Valdez,22,,D,,2025-12-31,20,True,True
+344,Sara Parks,17,,A,Mathematics,,,True,False
+345,Juan Bell,,,F,,,,False,False
+346,Kim Flores,,,F,,2025-11-05,76,False,True
+347,Mr. Wesley Carr,20,M,A,Biology,,,True,False
+348,Ruth Young,,M,F,History,2025-08-19,154,False,True
+349,David Miller,,M,C,Computer Science,,,False,False
+350,Donald Shea,20,M,C,Mathematics,2025-12-31,20,True,True
+351,Christine Solomon,,F,A+,Physics,,,False,False
+352,Kristina Mcgrath,,M,F,Physics,2023-11-22,790,False,True
+353,Elizabeth Rivas,20,,A,Computer Science,,,True,False
+354,Kevin Thornton,20,F,F,Physics,2025-12-31,20,True,True
+355,Christopher Kim,,M,F,Biology,2023-04-08,1018,False,True
+356,Eric Moreno,,,F,Physics,,,False,False
+357,Brian Butler,30,,C,Biology,,,True,False
+358,Susan Johnson,,F,B,Mathematics,,,False,False
+359,Marcus Shelton,20,F,C,Computer Science,2021-01-16,1830,True,True
+360,Robert Campos,,M,B,Physics,,,False,False
+361,Jeffrey Lam,22,M,F,History,,,True,False
+362,Mrs. Joanna Yang Dvm,20,F,F,Physics,,,True,False
+363,Jennifer Valenzuela,,F,F,Mathematics,,,False,False
+364,Kayla Turner,,F,A,Biology,,,False,False
+365,Jack Salazar,,F,F,History,,,False,False
+366,Angela Washington,20,M,F,Mathematics,,,True,False
+367,Deanna Cantrell,20,F,B,Physics,,,True,False
+368,Madison Johnson,,F,B,Computer Science,2025-12-31,20,False,True
+369,Louis Sanchez,,F,A+,Computer Science,,,False,False
+370,Regina Reynolds,,M,A+,Computer Science,2025-12-31,20,False,True
+371,Ellen Maxwell,,F,D,Biology,2021-02-06,1809,False,True
+372,Amanda Hayden,,M,B,,2025-12-31,20,False,True
+373,John Johnson,,F,A,Computer Science,2025-12-31,20,False,True
+374,Anita Stevenson,20,F,A,History,2022-05-04,1357,True,True
+375,Robert Martinez,24,M,C,History,,,True,False
+376,Michael Winters,,,D,Mathematics,2023-10-17,826,False,True
+377,Grant Lyons,20,F,D,,2020-11-23,1884,True,True
+378,Patricia Martinez,20,,A+,Physics,,,True,False
+379,Kimberly Lee,20,F,B,History,2025-12-31,20,True,True
+380,William Reeves,20,M,A,Computer Science,,,True,False
+381,Christy Howell,23,M,A+,Physics,,,True,False
+382,Brianna Rivas,19,F,F,Mathematics,2023-03-09,1048,True,True
+383,William Flowers,,F,F,Computer Science,2024-06-23,576,False,True
+384,Aaron Carpenter,23,F,C,Physics,,,True,False
+385,Steve Howard,18,F,F,History,,,True,False
+386,Julie Ashley,,M,B,,,,False,False
+387,Mrs. Phyllis Jones,,,C,,,,False,False
+388,Aimee Robinson,19,M,F,,2024-05-23,607,True,True
+389,Alexis Morrison,22,,F,,2025-12-31,20,True,True
+390,Adriana Coffey,,F,D,Computer Science,,,False,False
+391,Sean Williams,20,M,F,Computer Science,2025-12-31,20,True,True
+392,Sarah Richardson Phd,20,F,A,,,,True,False
+393,Virginia Williams,,F,B,,2025-12-31,20,False,True
+394,John Fields,20,,A+,Computer Science,,,True,False
+395,Chelsea Sweeney,20,M,A+,Mathematics,2023-06-25,940,True,True
+396,Sharon Clements,,M,C,Computer Science,,,False,False
+397,Joseph Robinson,20,M,F,History,2023-01-03,1113,True,True
+398,Joseph Sharp,17,F,A+,Physics,2020-07-16,2014,True,True
+399,Laura Hall,19,F,F,,2025-12-31,20,True,True
+400,Mitchell Wells,,M,B,Computer Science,,,False,False
+401,Heather Pennington,,F,F,Biology,2023-06-22,943,False,True
+402,Ryan Ward,26,M,F,Biology,2024-11-11,435,True,True
+403,Richard Ramos,,,C,Physics,,,False,False
+404,Steven Ewing,17,F,F,Mathematics,2021-07-28,1637,True,True
+405,Steven Garcia,,M,A+,Biology,,,False,False
+406,Mason Obrien,,F,D,History,2025-12-31,20,False,True
+407,Mathew Pena,,F,A,Physics,2025-12-31,20,False,True
+408,Thomas Velazquez,,M,D,History,2025-03-10,316,False,True
+409,Elizabeth Riley,,F,F,Physics,,,False,False
+410,Brian Mcmahon,,,A,Mathematics,,,False,False
+411,Mark Keller,,M,A,Physics,2025-12-31,20,False,True
+412,Angela Barker,,,F,Biology,,,False,False
+413,Maria Thomas,,M,F,Computer Science,2020-06-09,2051,False,True
+414,Robert Hughes,,,C,,2025-12-31,20,False,True
+415,Robert Parker,,F,B,Mathematics,2020-07-10,2020,False,True
+416,Matthew Powell,,F,D,Computer Science,,,False,False
+417,Arthur Miller,26,F,C,Physics,2020-11-21,1886,True,True
+418,Bryan Murphy,,F,F,Biology,2025-12-31,20,False,True
+419,Alan Ramirez,20,M,C,History,2024-02-02,718,True,True
+420,Ruth Mckenzie,,M,D,Computer Science,2023-09-06,867,False,True
+421,Matthew Ward,20,,B,Physics,,,True,False
+422,Bryan Dominguez,28,,A,History,,,True,False
+423,David Hernandez,,F,C,Physics,2025-12-31,20,False,True
+424,Jon Johnson,30,F,B,Computer Science,,,True,False
+425,Lawrence Brewer,20,M,C,History,2025-12-31,20,True,True
+426,Joseph Hernandez Md,,F,C,History,2021-07-21,1644,False,True
+427,Nathan Macias,,F,F,Computer Science,,,False,False
+428,Edgar Davis,20,F,C,Computer Science,,,True,False
+429,Debra Morgan,,,F,History,,,False,False
+430,Stephanie Taylor,20,F,B,,2025-12-31,20,True,True
+431,Mr. Justin Lam,20,F,D,Mathematics,2025-12-31,20,True,True
+432,Bethany Lane,20,M,A,Biology,,,True,False
+433,Alexander Murphy,20,,A,,,,True,False
+434,Laura Morgan,,,F,,,,False,False
+435,Jill Stuart,28,M,F,,2024-12-19,397,True,True
+436,Sheila Reynolds,17,F,F,Mathematics,,,True,False
+437,Nathan King,20,F,A+,Mathematics,,,True,False
+438,Eric Garcia,,F,F,Computer Science,,,False,False
+439,Jennifer Robinson,,M,F,,,,False,False
+440,Derrick Clark,,M,F,Biology,,,False,False
+441,Robert Reed,,M,C,Computer Science,,,False,False
+442,Robert Farmer,,,D,Physics,,,False,False
+443,Joshua Carrillo,20,,D,Computer Science,2025-12-31,20,True,True
+444,Brandon Garrett,,,A,Computer Science,,,False,False
+445,Katherine Espinoza,21,F,A,Mathematics,,,True,False
+446,Antonio Kramer,30,M,A,,,,True,False
+447,Gabriel Taylor,19,F,B,History,,,True,False
+448,Erica Warner,20,M,B,Physics,2022-08-14,1255,True,True
+449,Jerry Miranda,,F,C,Mathematics,2025-12-31,20,False,True
+450,Tom Hill,23,,C,Computer Science,2025-12-31,20,True,True
+451,Erik Lamb,20,,C,Biology,,,True,False
+452,Jennifer Nelson,,M,D,,,,False,False
+453,Thomas Randolph,20,F,D,Mathematics,2025-12-31,20,True,True
+454,James Harding,20,,F,Mathematics,,,True,False
+455,Brett Bailey,,F,C,Mathematics,2024-11-23,423,False,True
+456,Brenda Jones,,M,A,Biology,2025-12-31,20,False,True
+457,Ricardo Johnson,20,F,F,History,,,True,False
+458,Austin Carroll,,,D,History,,,False,False
+459,Dr. Richard Peck Phd,29,M,D,History,2025-06-16,218,True,True
+460,Martin Oliver,,F,A+,History,,,False,False
+461,Timothy Clark,20,M,F,History,2025-03-19,307,True,True
+462,Johnny Mcguire,20,,A,Mathematics,,,True,False
+463,Howard Sutton,,F,B,,2023-12-19,763,False,True
+464,Erica Porter,,F,C,Physics,2023-06-28,937,False,True
+465,Jennifer Morris,20,M,F,History,,,True,False
+466,Jeffrey Sanchez,,F,A+,Mathematics,,,False,False
+467,Shannon Rhodes,,M,B,,2022-05-23,1338,False,True
+468,Kathy Jensen,20,F,F,History,,,True,False
+469,Joseph Guerra,,F,A+,Physics,2024-11-01,445,False,True
+470,Danielle Smith,,F,A+,Computer Science,,,False,False
+471,Helen Collins,,F,A,Mathematics,2022-07-05,1295,False,True
+472,Kenneth Rodriguez,,M,A+,History,2023-07-18,917,False,True
+473,Tammy Smith,20,M,C,Computer Science,,,True,False
+474,Latoya Ray,20,M,D,Physics,,,True,False
+475,Gary Castillo,29,F,A,Mathematics,,,True,False
+476,Angela Wise,,F,A,Physics,2023-09-15,858,False,True
+477,Stacey Figueroa,20,F,F,Biology,,,True,False
+478,Dr. Larry Hopkins,20,,F,Mathematics,,,True,False
+479,Christopher Hernandez,,M,A+,Computer Science,2022-04-24,1367,False,True
+480,Jaclyn Sampson,20,F,D,Mathematics,2025-05-11,254,True,True
+481,Peggy Mullins,25,,C,,,,True,False
+482,Allen Jacobs,20,F,A+,Mathematics,2025-12-31,20,True,True
+483,Michael Jackson,21,M,A,,2023-03-30,1027,True,True
+484,Emily Stevens,,F,A+,Physics,2025-12-31,20,False,True
+485,Michael Garcia,23,F,F,History,,,True,False
+486,Jose Davis,,,C,Physics,2020-05-20,2071,False,True
+487,Elizabeth Mason,20,M,F,Biology,,,True,False
+488,Stefanie Conley,,M,C,Mathematics,2025-12-31,20,False,True
+489,Joseph Todd,20,F,F,,2020-04-03,2118,True,True
+490,Daniel Bowman,,F,B,Physics,,,False,False
+491,Courtney Gilmore,,F,F,History,,,False,False
+492,Ryan Miller,20,M,F,History,2024-05-16,614,True,True
+493,Mia Kennedy,,M,F,,2025-12-31,20,False,True
+494,Christine Lara,,M,A+,,,,False,False
+495,David Snyder,20,M,F,,2025-12-31,20,True,True
+496,Jerry Thompson,26,M,A+,Computer Science,,,True,False
+497,Eric Martin,,M,B,,2025-12-31,20,False,True
+498,Christina Jackson,20,F,D,Mathematics,,,True,False
+499,Sandra Taylor,20,F,A+,Physics,,,True,False
+500,David West,,F,F,Physics,,,False,False
+501,Dr. Tristan Shaffer Jr.,,F,C,,,,False,False
+502,Andrew Martinez,20,M,C,Computer Science,2021-10-27,1546,True,True
+503,Catherine Harris,20,,F,Computer Science,2025-10-17,95,True,True
+504,Christopher Allen,,,F,Mathematics,2023-08-23,881,False,True
+505,William Alexander,,M,A+,Computer Science,,,False,False
+506,Patrick Friedman,27,F,A+,Mathematics,2024-03-16,675,True,True
+507,Katherine Austin,20,M,F,,,,True,False
+508,Amanda Franklin,,M,A,Mathematics,,,False,False
+509,Kimberly Lewis,17,M,B,Physics,,,True,False
+510,Sabrina Morris,23,F,C,Biology,,,True,False
+511,Erin Walker,,F,F,Mathematics,2021-05-13,1713,False,True
+512,Brandi Garcia,20,F,F,Physics,,,True,False
+513,April Berry,,F,A,Mathematics,2022-08-09,1260,False,True
+514,Miguel Mays,20,M,A,Physics,,,True,False
+515,Jeffrey Morales,,M,F,History,2025-12-31,20,False,True
+516,Christopher Hall,20,,B,Physics,,,True,False
+517,Roy Clark,27,F,A,History,,,True,False
+518,Chris Murray,,M,A,History,,,False,False
+519,Susan Smith,20,F,B,Physics,2025-12-31,20,True,True
+520,Andrew Hernandez,,M,F,,2025-12-31,20,False,True
+521,Jessica Johnson,,,C,,2025-12-31,20,False,True
+522,Brian Hinton,,M,C,,,,False,False
+523,Laura Reed,,F,F,History,,,False,False
+524,Kayla Martin,,M,A,,,,False,False
+525,Julian Conrad,20,M,A+,Computer Science,,,True,False
+526,Janice Burton,23,F,F,,2024-05-05,625,True,True
+527,Shelia Delacruz,26,M,A,Biology,2022-09-09,1229,True,True
+528,Lawrence Thompson,23,,A+,Biology,2025-09-07,135,True,True
+529,James Brown,25,M,C,,2025-12-31,20,True,True
+530,Sarah Evans,20,,F,Mathematics,,,True,False
+531,Amanda Carter,,M,F,Biology,2025-12-31,20,False,True
+532,Joshua Cook,24,,C,Mathematics,2021-01-09,1837,True,True
+533,Alexandra Bell,20,,F,,,,True,False
+534,Robert Wright,,M,F,Biology,,,False,False
+535,Melissa Douglas,,M,F,Biology,,,False,False
+536,Shannon Jackson,20,F,D,,,,True,False
+537,Hayley Mcdaniel,20,,D,,2025-12-31,20,True,True
+538,Kristina Carter,,,D,History,2025-12-31,20,False,True
+539,Thomas Salinas,,F,F,History,,,False,False
+540,Scott Wood,,F,F,,2025-12-31,20,False,True
+541,Alexis Carter,21,,F,Biology,,,True,False
+542,Wanda Spence,,,B,History,,,False,False
+543,Gabriella Roberts,,F,F,,,,False,False
+544,Adrian Smith,,,F,Physics,2025-12-31,20,False,True
+545,Brianna Walker,,F,C,,,,False,False
+546,Shawn Harris,20,F,A+,,2024-04-12,648,True,True
+547,Alyssa Patterson,20,F,B,Biology,,,True,False
+548,Robert Mason,21,M,F,Computer Science,,,True,False
+549,Ashley Payne,26,F,F,History,2024-06-05,594,True,True
+550,Travis Carter,,M,C,History,,,False,False
+551,Linda Davis,,F,A+,Biology,2024-09-11,496,False,True
+552,William Blackburn,,M,A,Computer Science,2025-12-31,20,False,True
+553,Lisa Scott,,F,A,Computer Science,,,False,False
+554,Alan Vargas,20,F,A+,Computer Science,,,True,False
+555,Veronica Miller,25,F,F,,,,True,False
+556,Anthony Woods,17,M,F,Computer Science,,,True,False
+557,Tammy Stevens,,M,D,Computer Science,,,False,False
+558,Mr. Eric Lopez Ii,,M,D,Mathematics,2024-07-31,538,False,True
+559,Daniel Shea,,,D,History,2025-12-31,20,False,True
+560,Samuel Wright,29,F,B,Physics,,,True,False
+561,Kevin Mays,20,F,C,Biology,,,True,False
+562,Carolyn Arnold,22,M,F,Physics,,,True,False
+563,Diana Robinson,20,F,B,History,2025-12-31,20,True,True
+564,Emma Perry,,F,D,Biology,,,False,False
+565,Kim Nelson,,M,F,History,2022-02-27,1423,False,True
+566,Stephanie Robbins,,M,C,Physics,,,False,False
+567,Robin Lewis,,F,A,History,,,False,False
+568,Michelle Allen,,M,A,Physics,2023-06-16,949,False,True
+569,Valerie White,,F,F,Physics,,,False,False
+570,Ronald Garcia,,,C,Physics,2025-12-31,20,False,True
+571,Elizabeth Perry,20,F,B,Physics,2020-04-06,2115,True,True
+572,Isaac Kim,25,,A+,Physics,2025-12-31,20,True,True
+573,Paul Morris,20,F,A+,,,,True,False
+574,Thomas Ewing,,,A+,,2022-04-22,1369,False,True
+575,Benjamin Wong,27,M,F,,2025-12-31,20,True,True
+576,Gerald Dougherty,29,F,D,Mathematics,,,True,False
+577,Eric Durham,20,F,F,Biology,2025-12-31,20,True,True
+578,Shawn Vega,20,M,B,Mathematics,,,True,False
+579,April York,,,F,,,,False,False
+580,Matthew Ortega,28,,F,Mathematics,,,True,False
+581,Barbara Phillips,30,F,A,History,2021-02-10,1805,True,True
+582,Brandon Williams,,F,F,Mathematics,2023-04-20,1006,False,True
+583,Erica Green,,F,F,Mathematics,2025-12-31,20,False,True
+584,Mr. Robert Manning Dvm,21,,F,,2025-12-31,20,True,True
+585,Brian Smith,,M,B,History,2025-12-31,20,False,True
+586,Rebecca Henderson,25,F,A+,Mathematics,,,True,False
+587,Julia Rodgers,,F,B,Mathematics,2020-11-09,1898,False,True
+588,Gregory Bush,,F,B,History,,,False,False
+589,Susan Gilmore,,,C,Computer Science,2025-07-28,176,False,True
+590,Jordan Drake,28,F,B,Mathematics,,,True,False
+591,Lisa Hayes,,F,F,History,,,False,False
+592,Logan Reyes,,M,C,,,,False,False
+593,Dawn Wang,,,A,Mathematics,,,False,False
+594,Edward Collins,17,M,F,,2025-12-31,20,True,True
+595,Kristen Hamilton,20,F,F,Mathematics,,,True,False
+596,Cynthia Morgan,25,F,B,History,,,True,False
+597,Mary Beck,,,F,Computer Science,2021-06-23,1672,False,True
+598,Emily Lopez,,,B,History,2025-03-21,305,False,True
+599,Brittany Wade,29,M,B,Biology,,,True,False
+600,Jeffrey Mann,20,F,F,Computer Science,,,True,False
+601,Cassandra Williams,,,C,,,,False,False
+602,Erin Carroll,,F,A,Physics,2025-12-31,20,False,True
+603,Adam Jensen,,F,A,Physics,,,False,False
+604,Amanda Zavala,,F,A,Mathematics,2025-12-31,20,False,True
+605,Joyce Davis,17,M,D,,,,True,False
+606,Michael Morris,,M,A,History,,,False,False
+607,Angela Taylor,20,M,B,Physics,2025-12-31,20,True,True
+608,Jennifer Bradley,,,F,Biology,2025-12-31,20,False,True
+609,Stephanie Ramirez,20,F,D,Biology,2025-12-31,20,True,True
+610,Dana Pope,20,F,D,Physics,2020-01-19,2193,True,True
+611,Travis Stevens,,M,F,Computer Science,2025-12-31,20,False,True
+612,Krista Peters,,M,C,Biology,2025-12-04,47,False,True
+613,Robert Martin,29,M,A,History,2024-05-24,606,True,True
+614,Tammy Pearson,,M,D,Biology,2023-05-01,995,False,True
+615,Sheila Daugherty,20,F,F,,2021-03-03,1784,True,True
+616,Latoya Morrow,,,A,Mathematics,,,False,False
+617,Kelly Bridges,,F,A,,,,False,False
+618,Brian Harrison,20,M,C,Computer Science,,,True,False
+619,Jared Waller,20,M,F,Computer Science,,,True,False
+620,Benjamin Smith,,M,B,Computer Science,2025-12-31,20,False,True
+621,Brandon Ramirez,,,F,History,2020-01-03,2209,False,True
+622,Brian Hayes,,M,F,Computer Science,,,False,False
+623,Daniel Waller,,M,C,Biology,,,False,False
+624,Mark Pacheco,30,M,C,Mathematics,2025-12-31,20,True,True
+625,Claire Baker,,F,A+,,2025-04-16,279,False,True
+626,Mr. Victor Lara,19,M,B,Computer Science,2022-11-04,1173,True,True
+627,Gary Hamilton,20,,A+,Physics,,,True,False
+628,Mario Ross,20,M,B,History,,,True,False
+629,Timothy Guerrero,,F,D,History,,,False,False
+630,Anita Peters,29,M,A,Biology,2025-12-31,20,True,True
+631,Sandra Kennedy,19,M,D,Physics,2025-06-24,210,True,True
+632,Ashley Garner,,F,F,Computer Science,2025-12-31,20,False,True
+633,Emily Bauer,,F,A,Physics,,,False,False
+634,Zachary Austin,,F,D,Mathematics,,,False,False
+635,Aaron Best,20,F,F,Physics,,,True,False
+636,Mary Gallegos,23,F,F,Mathematics,2020-01-24,2188,True,True
+637,Robert Wang,20,F,F,Physics,2025-12-31,20,True,True
+638,Janice Harrington,20,M,F,Mathematics,,,True,False
+639,Carly Smith,,M,F,History,2025-01-20,365,False,True
+640,Pam Hammond,20,M,C,Physics,2024-05-25,605,True,True
+641,Lisa Garcia,,M,D,History,2021-06-09,1686,False,True
+642,Bradley Lowe,,,A+,Mathematics,2025-12-31,20,False,True
+643,Daisy Horton,20,,D,History,,,True,False
+644,Nicholas Cook,,M,C,Mathematics,,,False,False
+645,Daniel Compton,,F,C,,2024-02-22,698,False,True
+646,Christopher Frederick,,F,A+,,,,False,False
+647,Ryan Thornton,20,F,A+,,2023-06-22,943,True,True
+648,Bobby Weber,,F,C,History,,,False,False
+649,Bianca Kaiser,20,M,A+,History,2025-12-31,20,True,True
+650,Kathleen Stone,,M,F,Biology,2022-11-24,1153,False,True
+651,Reginald Harmon,26,F,C,Mathematics,2024-10-08,469,True,True
+652,Alejandro Dillon,,,A+,Mathematics,2021-08-02,1632,False,True
+653,Alyssa Krueger,,F,D,,,,False,False
+654,Brandon Burns,,F,F,Mathematics,,,False,False
+655,Brittany Evans,20,,C,Mathematics,,,True,False
+656,Michelle Oliver,23,F,A+,Biology,,,True,False
+657,Johnny Molina,20,F,A,Biology,2022-03-24,1398,True,True
+658,Stephanie James,,F,C,Biology,2021-05-27,1699,False,True
+659,Michael King,20,F,F,Biology,2025-12-31,20,True,True
+660,Meagan Torres,20,F,A,Mathematics,2023-11-29,783,True,True
+661,Brianna Warner,20,M,F,Mathematics,2025-12-31,20,True,True
+662,Stephanie Shah,,F,F,,,,False,False
+663,Samantha Harrison,24,,C,Physics,,,True,False
+664,Austin Murphy,,M,A,Biology,,,False,False
+665,Jessica Smith,20,F,B,Biology,2024-06-11,588,True,True
+666,April Ward,21,F,C,Computer Science,2025-12-31,20,True,True
+667,Angela Ruiz,,M,C,Physics,,,False,False
+668,Lisa Pearson,,M,A+,Mathematics,,,False,False
+669,Robin Jackson,25,F,C,Physics,2025-12-31,20,True,True
+670,Candice Miller,23,M,F,Computer Science,,,True,False
+671,Kevin Jackson,,F,A,History,2025-12-31,20,False,True
+672,Danielle Thomas,20,M,F,,2023-05-11,985,True,True
+673,Travis Carson,,M,D,History,2025-04-13,282,False,True
+674,Lisa White,20,F,D,Computer Science,2020-12-21,1856,True,True
+675,David Patel,20,M,A,History,,,True,False
+676,Mary Acosta,20,M,B,History,,,True,False
+677,Russell Munoz,,,B,Biology,,,False,False
+678,Shawn Todd,27,F,D,Computer Science,2024-03-14,677,True,True
+679,Kevin Smith,,F,B,History,,,False,False
+680,Dawn Willis,,M,B,,,,False,False
+681,Traci Ramirez,24,M,D,,2023-08-25,879,True,True
+682,Curtis Tucker,20,M,D,Biology,2025-12-31,20,True,True
+683,Michelle Wells,28,M,A,Biology,,,True,False
+684,Terry Brown,19,M,F,Physics,,,True,False
+685,Terry Arroyo,20,,B,History,,,True,False
+686,Sarah Chan,,F,B,Physics,,,False,False
+687,Ricky King,20,F,F,Mathematics,,,True,False
+688,Lynn Johnson,27,F,A+,Computer Science,,,True,False
+689,George Hunter,,F,F,Physics,2024-04-28,632,False,True
+690,Christine Martinez,,F,F,,,,False,False
+691,Justin Cole,20,F,F,Mathematics,,,True,False
+692,Nicole Hendricks,21,,B,,2020-01-05,2207,True,True
+693,Laura Maldonado,20,F,C,Mathematics,,,True,False
+694,Anthony Powell,,F,A+,Biology,,,False,False
+695,Amber Gonzalez,,,D,Computer Science,2025-12-31,20,False,True
+696,Theresa Howell,,,F,Physics,,,False,False
+697,Lori Walton,,,C,Mathematics,2023-09-30,843,False,True
+698,Jack Scott,,,B,Physics,2025-06-11,223,False,True
+699,Joshua Douglas,20,M,A+,Computer Science,,,True,False
+700,Andrea Willis Dds,20,,F,,2025-12-31,20,True,True
+701,Shannon Snow,,M,A,,,,False,False
+702,Crystal Wade,20,F,C,,,,True,False
+703,Maurice Green,,M,D,History,,,False,False
+704,Dylan Wallace,,M,B,History,2023-06-03,962,False,True
+705,Laura Stevenson,20,F,F,Physics,,,True,False
+706,Gary Blackburn,,F,B,Computer Science,,,False,False
+707,Mandy Wood,21,,A+,,,,True,False
+708,Traci Navarro,,F,F,Computer Science,2023-12-04,778,False,True
+709,Marissa Richards,,F,A+,Mathematics,,,False,False
+710,Victoria Stone,,F,D,History,2025-09-13,129,False,True
+711,Patrick Shields,,M,F,Biology,,,False,False
+712,Stacey Bailey,,M,F,,,,False,False
+713,Ashley Salazar,20,F,C,,2023-09-24,849,True,True
+714,Roger Medina,20,F,A+,,,,True,False
+715,Marc Vaughn,,M,D,History,,,False,False
+716,Miss Alicia Porter,,M,F,Physics,,,False,False
+717,Paul Gonzalez,,M,F,,,,False,False
+718,Michael Jackson,27,M,A+,Computer Science,2022-06-07,1323,True,True
+719,Gary Mcdonald,,M,F,Computer Science,2025-12-31,20,False,True
+720,William Curtis,,F,A,Mathematics,,,False,False
+721,Linda Watson,,F,A,,2020-02-06,2175,False,True
+722,Julian Evans,28,M,B,,2024-09-22,485,True,True
+723,Kathy Hoffman,,M,B,Mathematics,,,False,False
+724,Cynthia Mcneil,29,F,C,Mathematics,2024-09-06,501,True,True
+725,Jenna Villarreal,20,F,A,Biology,2024-07-22,547,True,True
+726,Sarah Perez,,M,B,History,,,False,False
+727,Juan Barry Dds,,F,A,History,,,False,False
+728,Bailey Scott,,,A,Physics,,,False,False
+729,Alice Allen,20,F,D,Mathematics,,,True,False
+730,Sheri Kirby,19,M,B,Biology,2025-12-31,20,True,True
+731,Allen Baldwin,27,M,F,Computer Science,2025-12-31,20,True,True
+732,Randy Crane,,M,F,History,2025-12-31,20,False,True
+733,Allison Ferguson,,M,A,Biology,2020-09-29,1939,False,True
+734,Ashley Yang Dds,,,A+,Physics,,,False,False
+735,Danielle Robinson,17,F,D,,2022-09-01,1237,True,True
+736,Amanda Hanson,19,F,A+,Physics,,,True,False
+737,Christopher Vasquez,17,F,F,Physics,2025-12-31,20,True,True
+738,Alex Stout,20,F,F,Physics,2024-04-12,648,True,True
+739,Duane Wallace,,M,D,History,2025-12-31,20,False,True
+740,Adam Green,,,C,,2025-12-31,20,False,True
+741,Karen Sanchez,,,C,,2025-12-31,20,False,True
+742,Michael Kennedy,,M,A+,Physics,2024-07-05,564,False,True
+743,Sherri Tucker,20,F,A+,Mathematics,2021-02-19,1796,True,True
+744,Robert Hartman,,F,F,Computer Science,,,False,False
+745,Robert Norris,20,M,F,Mathematics,2024-06-11,588,True,True
+746,Christopher Yoder,,M,A+,Computer Science,,,False,False
+747,Robert Smith,,M,A+,,2025-12-31,20,False,True
+748,Jeffrey Cole,,M,C,Biology,,,False,False
+749,Roger Garrison,20,F,B,History,,,True,False
+750,Sarah Patterson,20,,A,Computer Science,,,True,False
+751,Gina Chambers,25,M,A+,Mathematics,,,True,False
+752,Aaron Herring,18,,C,History,2025-02-11,343,True,True
+753,Bryan Stokes,,,D,History,,,False,False
+754,Martha Kent,20,F,A,Biology,2025-12-31,20,True,True
+755,Michelle Morris,20,,F,Computer Science,,,True,False
+756,Darrell Howard,,M,A,Biology,2025-12-31,20,False,True
+757,Shane Rodriguez,,M,A,Biology,,,False,False
+758,Mary Cross,20,M,A,History,2025-12-31,20,True,True
+759,Roberta Calderon,,,A,Biology,,,False,False
+760,Tara Caldwell,,M,C,Mathematics,,,False,False
+761,Joshua Smith,,,C,,2025-12-31,20,False,True
+762,Mary Case,,F,F,History,2024-12-27,389,False,True
+763,Alexander Smith,28,,D,,,,True,False
+764,James Moore,20,,C,History,,,True,False
+765,Leslie Hudson,24,M,D,Mathematics,2025-12-31,20,True,True
+766,Sheila Martinez,,M,B,Mathematics,2025-10-10,102,False,True
+767,Jimmy Fox,20,M,A+,,,,True,False
+768,Bryan Gregory,,F,F,Computer Science,2025-12-31,20,False,True
+769,Angel Espinoza,20,M,F,Physics,,,True,False
+770,Samuel Hernandez,20,M,A+,Mathematics,,,True,False
+771,Ana Mitchell,27,,C,Physics,2025-12-31,20,True,True
+772,Donald Bean,20,F,A+,History,2025-12-31,20,True,True
+773,Justin Rivera,,F,B,History,2020-03-13,2139,False,True
+774,Gregg Khan,20,M,A,Biology,2025-12-31,20,True,True
+775,Victoria Lopez,20,F,F,,2025-12-31,20,True,True
+776,Sean Sanchez,,M,B,Physics,2025-12-31,20,False,True
+777,Stacy White,,F,F,History,,,False,False
+778,Dr. Patricia Miller,20,F,D,Computer Science,,,True,False
+779,Paul Hunter,,M,C,Mathematics,,,False,False
+780,Michael Woods,20,F,B,,,,True,False
+781,Stephen Young,,,A,Physics,,,False,False
+782,Albert Singh,,M,D,Computer Science,2025-12-31,20,False,True
+783,Megan Barnes,,M,A,Mathematics,2025-10-18,94,False,True
+784,Erika Fisher,,M,D,History,,,False,False
+785,Sandra Chen,,M,A+,Biology,,,False,False
+786,Brooke Gonzalez,27,,C,Biology,,,True,False
+787,Joy Williams,21,F,F,Physics,,,True,False
+788,George Adams,,,F,,2025-12-31,20,False,True
+789,Erika Wagner,,F,B,Biology,2024-06-14,585,False,True
+790,Michael Paul,20,F,A,,2025-12-31,20,True,True
+791,Megan Oliver,,M,D,Computer Science,2021-03-13,1774,False,True
+792,Stacey Thomas,22,F,A,Computer Science,2025-12-31,20,True,True
+793,Jamie Jones,,F,A,,2020-03-14,2138,False,True
+794,Christopher West,,F,C,Computer Science,2021-11-11,1531,False,True
+795,Christian Fisher,,F,A+,Computer Science,,,False,False
+796,Mrs. Olivia Thompson,20,F,C,History,,,True,False
+797,Julie Stephenson,,F,F,Mathematics,2022-12-19,1128,False,True
+798,Daniel Gonzalez,20,F,F,,2025-12-31,20,True,True
+799,Lori King,,F,A,Physics,2023-11-12,800,False,True
+800,Melinda Massey Md,,F,F,Computer Science,,,False,False
+801,George Lewis,,,D,,2021-03-04,1783,False,True
+802,Barbara Palmer,30,,C,Computer Science,2023-12-16,766,True,True
+803,Mary Perez,19,M,F,Biology,,,True,False
+804,Julia Stewart,,M,C,History,,,False,False
+805,Rebekah Spence,,M,A+,History,,,False,False
+806,Erica Richmond,,M,A,Computer Science,,,False,False
+807,Kathleen Martin,28,F,C,History,2025-12-31,20,True,True
+808,Melissa Hunter,,M,A,Biology,,,False,False
+809,Jackson Osborne,,F,D,Physics,,,False,False
+810,Yesenia Aguilar,20,,D,Physics,2025-12-31,20,True,True
+811,Cole Martinez,20,F,F,Biology,,,True,False
+812,Douglas Lewis,,F,F,History,,,False,False
+813,Anthony Richard,,M,B,Computer Science,,,False,False
+814,Jacqueline Burnett,,F,D,Biology,,,False,False
+815,Patrick Brown,,,C,,,,False,False
+816,Suzanne Harrison,,F,B,Physics,2020-03-26,2126,False,True
+817,Christopher Wiley,,F,C,History,,,False,False
+818,Dalton Mann,24,,F,Physics,2021-10-21,1552,True,True
+819,Robert Hayes,,M,D,Biology,,,False,False
+820,Ashley Nelson,23,M,A,History,,,True,False
+821,Darlene Leonard,22,,B,Computer Science,,,True,False
+822,Amy Meyer,,M,B,Biology,2025-12-31,20,False,True
+823,Sherry White,,M,F,Mathematics,,,False,False
+824,Courtney Everett,27,F,D,Computer Science,2024-12-09,407,True,True
+825,Joshua Miller,26,F,F,Mathematics,,,True,False
+826,Taylor Miller,,M,F,Computer Science,,,False,False
+827,Melissa Pope,,F,F,Physics,,,False,False
+828,Carolyn Phillips,18,M,D,,,,True,False
+829,Lori Johnson,,F,B,Biology,2025-12-31,20,False,True
+830,Julia Scott,,F,D,History,2025-12-31,20,False,True
+831,John Berg,30,M,D,Biology,,,True,False
+832,Briana Marshall,20,M,A,Computer Science,2025-12-31,20,True,True
+833,Jacob Jordan,,,F,,,,False,False
+834,Emily Buchanan,,F,F,History,2025-12-31,20,False,True
+835,Brandon Ruiz,,,B,Computer Science,2022-03-14,1408,False,True
+836,Henry Mitchell,20,M,F,History,,,True,False
+837,Cody Mcguire,,,A,,2025-12-31,20,False,True
+838,John Smith,,F,D,Computer Science,2025-01-05,380,False,True
+839,Scott Richard,23,M,A,History,2023-08-26,878,True,True
+840,Michael Burke,20,M,C,Physics,,,True,False
+841,Brian Hernandez,,M,D,,2024-09-29,478,False,True
+842,Ashley Campbell,29,F,A+,Physics,2025-12-31,20,True,True
+843,Pamela Alvarez,,F,A,History,2023-08-03,901,False,True
+844,Eric Lloyd,,F,F,Computer Science,2025-12-31,20,False,True
+845,Dominique Edwards,20,M,A,Computer Science,,,True,False
+846,Robert Casey,18,,C,,2025-12-31,20,True,True
+847,Sierra Jackson,20,M,F,,,,True,False
+848,Ronald Mendez,,M,B,,2022-08-20,1249,False,True
+849,Catherine Jones,,M,F,Physics,2025-12-31,20,False,True
+850,John Horton,,F,C,,2024-09-16,491,False,True
+851,Tara Andrews,,F,B,History,2021-11-29,1513,False,True
+852,Kenneth Walker,20,,D,Computer Science,,,True,False
+853,Christopher Webb,23,M,D,Mathematics,2020-08-08,1991,True,True
+854,Megan Reyes,,,C,Biology,,,False,False
+855,Tiffany Cooke,,M,B,Biology,2025-12-31,20,False,True
+856,Thomas Harris,,F,C,Computer Science,,,False,False
+857,Shannon Moore,20,M,F,Computer Science,2024-09-16,491,True,True
+858,Sandra Obrien,,,A,Mathematics,,,False,False
+859,Denise Hodges,21,M,F,Physics,2025-12-31,20,True,True
+860,Allison Scott,,F,A+,Biology,2025-12-31,20,False,True
+861,Catherine Fowler,,F,A+,,2025-12-31,20,False,True
+862,Whitney Nguyen,,,B,Computer Science,2025-12-31,20,False,True
+863,Bethany Chapman,21,M,A+,Computer Science,2022-06-04,1326,True,True
+864,Greg Lane,20,F,A,Computer Science,2023-04-11,1015,True,True
+865,Joshua Hansen,20,M,F,Physics,,,True,False
+866,Joseph Ray,,F,F,Computer Science,2020-07-13,2017,False,True
+867,Steven Baker,,M,A,History,,,False,False
+868,Mariah Brooks,20,M,A,Biology,2025-12-31,20,True,True
+869,Jessica Lane,,,A,Biology,2025-12-31,20,False,True
+870,Elizabeth Carlson,27,F,F,Mathematics,2024-04-10,650,True,True
+871,Karen Hess,,M,A,Physics,2020-12-07,1870,False,True
+872,Mark Edwards,,M,A+,Computer Science,,,False,False
+873,Diane Mckinney,22,M,A,Computer Science,,,True,False
+874,Carl Scott,20,F,F,History,,,True,False
+875,Joseph Myers,20,F,A,Mathematics,,,True,False
+876,Steve Murray,,F,C,Biology,2025-12-31,20,False,True
+877,Julia Bridges,,F,F,Biology,,,False,False
+878,Stacy Powell,,,C,Biology,,,False,False
+879,Dustin Brown,29,M,F,Biology,2025-12-31,20,True,True
+880,Karla Short,20,F,A,Computer Science,,,True,False
+881,Colleen Rice,,F,B,Biology,,,False,False
+882,David Solis,20,F,A+,Computer Science,2021-11-02,1540,True,True
+883,Denise Jimenez,,F,F,,2025-12-31,20,False,True
+884,Lawrence Klein,,,F,Biology,2025-12-31,20,False,True
+885,Tracy Ward,,,D,Mathematics,,,False,False
+886,Matthew Miller Iii,20,M,D,Biology,2023-05-12,984,True,True
+887,Sean Butler,20,F,D,,2025-12-31,20,True,True
+888,Kathryn Bean,20,M,A+,History,2024-12-06,410,True,True
+889,Mr. Kevin Bradley,,M,A,Mathematics,,,False,False
+890,David Anderson,,F,F,History,,,False,False
+891,Kimberly Alvarez,,F,F,Physics,,,False,False
+892,Elizabeth Guerra,,F,F,Mathematics,,,False,False
+893,Joseph Black,20,M,A,,2025-12-31,20,True,True
+894,Sara Reed,26,F,A+,Biology,,,True,False
+895,Katie Tanner,,F,D,Physics,2025-12-31,20,False,True
+896,Adrian Francis,19,F,C,Mathematics,,,True,False
+897,Ashley Chapman,20,F,F,Computer Science,2021-12-11,1501,True,True
+898,Matthew Berger,,F,D,History,2022-06-29,1301,False,True
+899,Miguel Little,21,F,A+,Computer Science,,,True,False
+900,Scott Stuart,,F,A+,Biology,2024-01-19,732,False,True
+901,Kimberly Shepherd,,M,F,History,,,False,False
+902,Kimberly Gibson,,F,C,Computer Science,2020-09-16,1952,False,True
+903,Theresa Glenn,20,,F,Mathematics,,,True,False
+904,Richard Fisher,21,F,B,Computer Science,2025-12-31,20,True,True
+905,Natasha Munoz,29,M,A,Biology,,,True,False
+906,Michael Roach,20,F,F,Mathematics,2025-12-31,20,True,True
+907,Jon Roberson,20,M,F,,2023-04-10,1016,True,True
+908,Elizabeth Boyd,20,,A,Computer Science,,,True,False
+909,Paul Morrison,,M,B,Physics,,,False,False
+910,Casey Hart,21,F,F,,,,True,False
+911,John Parker,,M,F,Physics,,,False,False
+912,Denise Melton,,M,B,Biology,2025-12-31,20,False,True
+913,Jessica Johnson,20,M,D,Computer Science,,,True,False
+914,Kyle Williams,20,M,C,Mathematics,,,True,False
+915,Leslie Harrison,,M,D,Computer Science,,,False,False
+916,Patricia Martin,20,M,A+,,2025-12-31,20,True,True
+917,Mary Johnson,25,,C,Computer Science,2025-12-31,20,True,True
+918,Joshua Miller,25,M,A+,Physics,2021-08-17,1617,True,True
+919,Nathan Johnson,21,F,D,,2022-03-19,1403,True,True
+920,Tracy Davis,,F,B,Biology,,,False,False
+921,Lonnie Thomas,20,F,B,Computer Science,,,True,False
+922,Philip King,,F,A,Mathematics,2020-08-11,1988,False,True
+923,Raven Rodriguez,20,,F,,2023-10-12,831,True,True
+924,Patricia Adams,21,M,A,,,,True,False
+925,William Mcclure,,F,F,Mathematics,2021-04-06,1750,False,True
+926,Steven Reyes,20,F,A+,Physics,,,True,False
+927,Valerie Peterson,,F,F,Physics,,,False,False
+928,Kristy Barber,20,F,B,Computer Science,2025-02-02,352,True,True
+929,Nathaniel Lopez,20,,A+,History,2025-12-31,20,True,True
+930,Katherine Gonzalez,28,F,F,,2025-12-31,20,True,True
+931,Michael Nguyen,20,F,A+,Computer Science,2020-02-03,2178,True,True
+932,Elizabeth Mendoza,,F,B,,2025-12-31,20,False,True
+933,Samuel Smith,,M,A,,,,False,False
+934,Paula Williams,,F,A,Physics,,,False,False
+935,Mrs. Brittany Summers,,,D,Computer Science,,,False,False
+936,Patrick Flores,20,,F,Mathematics,,,True,False
+937,Diana Ruiz,24,M,D,,2020-02-21,2160,True,True
+938,Martha Gibson,,M,F,Physics,2025-12-22,29,False,True
+939,James Garner,20,F,C,Physics,2025-12-31,20,True,True
+940,Daniel Peterson,18,M,F,History,,,True,False
+941,Kaitlin Rodriguez,,M,D,,2025-12-31,20,False,True
+942,Steven Bennett,,M,F,History,2025-12-31,20,False,True
+943,Cameron Terry,,,F,Mathematics,2024-01-02,749,False,True
+944,Matthew Yu,,M,F,Computer Science,,,False,False
+945,Katherine King,17,M,F,Mathematics,2025-12-10,41,True,True
+946,Jennifer Alvarez,,F,A+,Biology,2025-12-31,20,False,True
+947,Vanessa Martin,,F,B,Computer Science,2020-02-18,2163,False,True
+948,Jennifer Johnson,20,M,A+,,2025-12-31,20,True,True
+949,Erin Holloway,28,M,D,History,,,True,False
+950,Jacqueline Jensen,,F,F,Mathematics,2025-12-31,20,False,True
+951,Christopher Clark,,F,B,History,2020-10-20,1918,False,True
+952,Kevin Powers,,M,A,Biology,2025-12-31,20,False,True
+953,Lindsey Carter,20,,B,History,,,True,False
+954,Theresa Stephenson,,M,B,Biology,,,False,False
+955,Teresa Larson,20,F,F,,2025-03-01,325,True,True
+956,Larry Yang,25,M,A+,,2025-12-31,20,True,True
+957,Sophia Diaz,,F,C,Physics,,,False,False
+958,Donna Morrison,18,,D,Computer Science,,,True,False
+959,William Hall,28,M,F,Computer Science,2025-12-31,20,True,True
+960,Craig Olson,28,,C,Mathematics,,,True,False
+961,Whitney Miller,,F,D,Biology,2025-12-31,20,False,True
+962,Victor Soto,23,F,F,Biology,,,True,False
+963,Thomas Martinez,,F,F,Biology,2025-12-31,20,False,True
+964,Jennifer Wong,,,C,Computer Science,2025-12-31,20,False,True
+965,Ivan Peterson,,F,F,Biology,2025-12-31,20,False,True
+966,Bryce Cook,20,M,C,History,2025-12-31,20,True,True
+967,Lisa Ramirez,,M,A+,Mathematics,,,False,False
+968,Jennifer Gonzales Md,,M,A,Physics,2020-02-17,2164,False,True
+969,Seth Williams,24,M,F,Physics,2025-12-31,20,True,True
+970,Vickie Drake,25,M,A+,Computer Science,2025-12-31,20,True,True
+971,Kirsten Hodges,20,F,A+,Computer Science,,,True,False
+972,Rhonda Mitchell,,,D,Computer Science,,,False,False
+973,Lisa Hernandez,,F,F,Computer Science,,,False,False
+974,William Walker,,M,A+,History,,,False,False
+975,Mrs. Mary Morales,20,F,C,,,,True,False
+976,Samantha Adams,20,F,A,,2024-04-14,646,True,True
+977,Francisco Rivera,,M,A+,Mathematics,,,False,False
+978,Jonathan Garcia,20,F,B,History,,,True,False
+979,Shirley Kelly,,,C,Computer Science,,,False,False
+980,Alicia Fuller,24,F,A+,,,,True,False
+981,Robert Dunlap,,F,C,History,2022-02-08,1442,False,True
+982,Gregory Wang,,M,B,Mathematics,2025-12-31,20,False,True
+983,Peter Conley,,,C,History,,,False,False
+984,Cameron Tucker,,M,D,Computer Science,,,False,False
+985,Nathan Dennis,20,F,D,Mathematics,,,True,False
+986,Paul Lee,,F,D,,2025-12-31,20,False,True
+987,Erin Hobbs,,F,B,Biology,,,False,False
+988,Matthew Ryan Md,,F,A,Mathematics,2025-12-31,20,False,True
+989,Chelsea Skinner,25,M,D,Physics,,,True,False
+990,Patricia Anderson,,F,C,Physics,2025-12-31,20,False,True
+991,Henry Wood,20,M,D,,2024-08-03,535,True,True
+992,Tyler Cole,,F,F,History,2020-07-11,2019,False,True
+993,Joyce Murillo,,F,C,,2025-12-31,20,False,True
+994,Anthony Gonzalez,20,,F,History,2025-12-31,20,True,True
+995,Mrs. Debra Bell,20,,F,History,2025-12-31,20,True,True
+996,Mark Garcia,20,,C,Computer Science,,,True,False
+997,Jessica Madden,20,,A+,Computer Science,2025-12-31,20,True,True
+998,Erin Dunn,,M,F,Biology,,,False,False
+999,Tamara Moreno,20,M,A,Mathematics,,,True,False
+1000,Brittany Fox,20,M,D,,,,True,False

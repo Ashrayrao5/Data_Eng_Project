@@ -1,0 +1,1001 @@
+StudentID,Name,Age,Gender,Grade,Major,EnrollmentDate
+1,John Clark,twenty,Female,A+,Biology,2026-15-01
+2,Anthony Rice,24,M,D,,2021-10-31
+3,Tammy Ramirez,-1,Female,D,Biology,2026-15-01
+4,Kari Nguyen,twenty,M,B,History,2026-15-01
+5,Danielle Mccann,twenty,F,C,History,
+6,Thomas Rivera,twenty,F,F,Computer Science,2026-15-01
+7,Daniel Williams,-1,,B,Biology,2026-15-01
+8,Gwendolyn Davis,twenty,F,B,Physics,2025-04-11
+9,Thomas Charles,18,M,D,Computer Science,12/31/2025
+10,Brian Bryan,-1,F,B,Mathematics,12/31/2025
+11,Jamie Bowen,,,B,Computer Science,2024-11-29
+12,Amy Manning,,M,A,History,
+13,Theresa Wood,-1,Male,Z,Computer Science,2026-15-01
+14,Brenda Sloan,-1,F,A,Computer Science,12/31/2025
+15,Chelsey Nelson DVM,twenty,F,A+,Mathematics,12/31/2025
+16,Brent Chan,-1,M,C,Mathematics,2026-15-01
+17,Lisa Shaffer,,M,B,Computer Science,2024-10-22
+18,Mike Reynolds,twenty,F,A,Physics,2026-15-01
+19,Sean Wood,,Female,C,History,12/31/2025
+20,Lisa Mcknight,19,,A,Biology,
+21,Jonathan Blackwell,17,,A,History,
+22,Joshua Sanchez,,F,D,History,2026-15-01
+23,Briana Beltran,-1,M,B,Biology,2026-15-01
+24,Heather Friedman,,,Z,Mathematics,12/31/2025
+25,Emily Williams,,F,B,Biology,2020-05-12
+26,Miss Hannah Collins,-1,Female,A,Computer Science,2023-05-31
+27,Francisco Contreras,twenty,Male,F,Mathematics,2026-15-01
+28,Anthony Alexander,26,,A,,
+29,Sierra Crawford DDS,-1,M,Z,Biology,2026-15-01
+30,Tiffany Rivas,30,M,F,Mathematics,
+31,Jessica Dickerson,twenty,F,Z,Physics,
+32,Karen Williams,30,,D,Mathematics,2026-15-01
+33,Tim Holmes,,,C,History,2026-15-01
+34,Katie Stewart,-1,,F,Biology,2026-15-01
+35,Amber Hernandez,twenty,Male,B,Physics,12/31/2025
+36,Kenneth Reynolds,twenty,,A,Physics,
+37,Tammy Garza,twenty,M,D,Biology,
+38,Kimberly Mccormick,,F,F,History,2026-15-01
+39,Dr. Andrew Campbell,-1,,C,Biology,2026-15-01
+40,Robert Johnson,twenty,M,Z,Mathematics,12/31/2025
+41,Bradley Harris,twenty,,C,Mathematics,2026-15-01
+42,Heather Miller,,F,F,Biology,12/31/2025
+43,John Martinez,twenty,Female,D,Computer Science,
+44,Stacey Green,22,Male,A,History,2025-01-21
+45,Steven Woodard,,F,D,Physics,12/31/2025
+46,Scott Cooley,-1,Female,Z,Physics,
+47,Sean Solomon,-1,Female,C,Physics,
+48,Suzanne Williams,25,M,D,Computer Science,2026-15-01
+49,Courtney Garcia,twenty,M,Z,Mathematics,
+50,Charles Gibbs,-1,Female,D,Mathematics,2022-04-11
+51,Joseph Miller,28,F,B,History,2026-15-01
+52,Mr. Carlos Lee,twenty,F,A,,2026-15-01
+53,James Tucker,-1,M,B,Biology,2024-09-30
+54,Nicole Ellis,-1,,D,Mathematics,
+55,Michael Walker,twenty,F,A+,Computer Science,
+56,Katherine Andrews,-1,F,F,History,
+57,Darlene Buck,17,Male,F,Biology,2023-04-21
+58,Steven Brown,30,Male,B,,2026-15-01
+59,Stephanie Nguyen,twenty,Female,D,Computer Science,
+60,Cameron Herrera,24,Male,A,Mathematics,2026-15-01
+61,Patricia Holmes,-1,Male,D,Physics,
+62,Zachary Steele,24,Male,C,History,2026-15-01
+63,Allison Patrick MD,19,Female,B,Mathematics,
+64,Damon Jones,30,F,Z,Biology,
+65,John Harding,24,M,D,Computer Science,2026-15-01
+66,James Estes,twenty,F,B,History,2025-03-05
+67,Edward Webster,24,F,B,,2026-15-01
+68,Marcus Beard,twenty,F,Z,Computer Science,2025-07-16
+69,Sierra Holmes,-1,Female,F,Computer Science,2020-09-19
+70,Daniel Mendoza,twenty,,A,History,2026-15-01
+71,Tracy Ruiz,27,M,A+,Mathematics,12/31/2025
+72,Manuel Clark,18,,B,,12/31/2025
+73,Danielle Johnson,28,M,B,,2024-07-09
+74,Keith Cummings,28,Male,A+,Computer Science,2026-15-01
+75,Dawn Edwards,,,Z,Computer Science,
+76,Beth Wise,-1,,A,,12/31/2025
+77,Jennifer Gray,26,M,F,Biology,12/31/2025
+78,Lori Booth,-1,,D,Physics,12/31/2025
+79,Carla Rivera,-1,Female,D,Physics,12/31/2025
+80,Richard Manning,twenty,,C,Computer Science,2021-02-22
+81,Hunter Williams,twenty,M,C,Physics,2026-15-01
+82,Marissa Collier,,Male,B,Computer Science,12/31/2025
+83,John Clark,20,Female,Z,History,2025-06-30
+84,Belinda Taylor,-1,Male,B,Physics,
+85,Christopher Jackson,-1,Female,A+,Computer Science,2025-03-30
+86,David Martinez,-1,Male,B,History,2026-15-01
+87,Joanna Schultz,,M,A+,Biology,
+88,Sheri White,17,Male,C,Computer Science,2025-03-09
+89,Crystal Fleming MD,,Male,Z,History,
+90,Luis Henry,,M,Z,Physics,2026-15-01
+91,James Cunningham,,,D,Physics,
+92,Michael Wagner,22,Male,A,Mathematics,
+93,Joel Strong,-1,,B,Physics,12/31/2025
+94,Breanna Gonzalez,twenty,M,C,Computer Science,2026-15-01
+95,Adam Kerr,twenty,Female,F,History,12/31/2025
+96,James Peterson,20,Male,B,Physics,2021-08-13
+97,Dylan West,twenty,Male,A,Physics,2022-05-15
+98,Renee Gomez,,F,C,,12/31/2025
+99,Jackie Moran,twenty,Male,F,Biology,2025-10-19
+100,Sara Jackson,27,Female,Z,Computer Science,2026-15-01
+101,Amber Wolf,,Female,C,Physics,2022-07-02
+102,Morgan Flowers,26,Female,C,Mathematics,12/31/2025
+103,Eric Gould,27,F,B,Computer Science,
+104,Xavier Obrien,18,Female,D,Biology,2026-15-01
+105,Elizabeth Nguyen,20,Male,B,History,2026-15-01
+106,Heather Hernandez,21,F,F,Computer Science,2022-09-13
+107,Christopher Curtis,,F,Z,Computer Science,12/31/2025
+108,Charles Mckinney,-1,M,F,Physics,12/31/2025
+109,Kevin Marshall,-1,,D,History,12/31/2025
+110,Michele Morgan,,,F,Computer Science,2023-04-27
+111,Casey Thornton,twenty,,C,Mathematics,
+112,Monica Hubbard,twenty,F,Z,,2023-09-13
+113,Steven Solis,twenty,F,A+,Computer Science,
+114,Janice Rowland,,M,F,Computer Science,2026-15-01
+115,Andrea Hunt,22,M,B,Biology,12/31/2025
+116,Sean Anderson,twenty,,F,Mathematics,
+117,Jacqueline Eaton,twenty,Female,A+,Biology,2025-07-29
+118,Earl Gomez,18,F,A+,Computer Science,12/31/2025
+119,Chelsea Phillips,18,,A+,Computer Science,2026-15-01
+120,Douglas Hill,,F,Z,Biology,2026-15-01
+121,Theresa Garcia,twenty,Male,A+,Biology,2026-15-01
+122,Alyssa Thompson,-1,,C,History,
+123,Michael Moore,,F,D,History,2021-05-13
+124,Mia Mercado,29,M,F,Physics,12/31/2025
+125,Vincent Rollins,-1,M,Z,,
+126,Jeffrey Scott,-1,F,B,Biology,2026-15-01
+127,Gary Phillips,twenty,Female,A,Computer Science,2026-15-01
+128,Rodney Price,17,Male,C,Mathematics,2021-03-12
+129,Amy Harper,30,Male,C,,
+130,Harold Andrews,26,M,A+,Biology,12/31/2025
+131,Ellen Leon,twenty,Male,D,Mathematics,2020-05-13
+132,Pamela Bailey,-1,M,C,Computer Science,2026-15-01
+133,Todd Arroyo,,,B,History,2021-10-01
+134,Emily Marquez,-1,M,A+,Biology,12/31/2025
+135,Miguel Williams,17,,C,,12/31/2025
+136,Christopher Lee,-1,Female,A+,Physics,
+137,Amy Bautista,21,Female,Z,Mathematics,2022-04-25
+138,Eric Lara,twenty,Female,D,History,2026-15-01
+139,Michelle Hall,21,M,D,,
+140,Maria Bailey,,Female,A+,Mathematics,2026-15-01
+141,Brooke Cooper,,Female,A,Biology,2020-11-29
+142,Jennifer Lee,24,M,B,,2026-15-01
+143,Cynthia Baldwin,26,Male,A,Physics,
+144,Daniel Ball,-1,Female,C,,12/31/2025
+145,Eric Thomas,,Female,D,Computer Science,
+146,Andrew Schultz,-1,M,A,Computer Science,2026-15-01
+147,Stacy Valenzuela PhD,-1,M,Z,,
+148,Gregory Jarvis,,F,B,,12/31/2025
+149,Sally Booker,-1,,C,,2025-12-23
+150,Heather Richardson,-1,F,D,Mathematics,2026-15-01
+151,Angela Adams,twenty,,B,Physics,2026-15-01
+152,Jonathan Yu,,Male,A+,Biology,
+153,Christina Gonzalez,,F,D,Mathematics,2026-15-01
+154,Donna Garcia,-1,Female,A,Mathematics,
+155,Christopher Trujillo,,M,Z,Mathematics,2023-08-13
+156,Mr. Jason Davila,twenty,Female,C,History,12/31/2025
+157,Noah Williams,-1,Female,Z,,
+158,Miranda Williams,twenty,Male,B,Computer Science,2026-15-01
+159,Micheal Ward,-1,F,D,History,2026-15-01
+160,Curtis Martinez,-1,F,A+,Computer Science,2020-07-20
+161,Edward Pennington,-1,Male,Z,History,12/31/2025
+162,Stacy Johnson,,Female,D,History,2021-07-24
+163,Beth Carter,twenty,F,A,,12/31/2025
+164,Courtney Mclean,,F,A+,Physics,
+165,Emily Willis,,,F,Physics,2020-05-31
+166,Jean Downs,,,Z,Biology,2022-01-17
+167,Kevin Jones,24,Male,D,Mathematics,
+168,Samantha Harmon,29,M,A,Physics,2026-15-01
+169,Nicholas Williams,-1,F,A+,Biology,12/31/2025
+170,Jesse Washington,twenty,Female,A,Physics,2021-11-26
+171,Philip Miller,29,Female,D,Physics,2025-05-14
+172,Matthew Mathews,twenty,M,A,Physics,
+173,Christopher Chavez,-1,M,A+,History,2022-11-10
+174,Brenda Joseph,19,Male,C,Computer Science,
+175,Lindsey Hunt,-1,Male,D,,2022-05-12
+176,Michael Singh,,,B,Physics,2026-15-01
+177,Beth Mullins MD,-1,Female,Z,,2026-15-01
+178,Scott Mcclain,,,B,Biology,2026-15-01
+179,Karen Ward MD,-1,,B,History,
+180,Michelle Alexander,-1,Male,B,Biology,12/31/2025
+181,Jennifer Hall,twenty,M,A+,History,2026-15-01
+182,Michael Molina,,Female,F,,
+183,Daniel Irwin,twenty,,A+,History,2026-15-01
+184,Roger Austin,-1,,B,History,2026-15-01
+185,Kevin Taylor,,F,C,History,2023-12-14
+186,Michael Smith,-1,Female,A+,Biology,
+187,Catherine Martin,-1,,F,Computer Science,12/31/2025
+188,Lisa Hernandez,17,Male,A+,Computer Science,
+189,Carolyn Martinez,twenty,F,B,Physics,12/31/2025
+190,Brandy Strickland,-1,,F,Biology,2020-05-20
+191,Darrell Smith,twenty,Male,C,Physics,
+192,Sheila Stewart,17,Male,A,Biology,2026-15-01
+193,Rachel Esparza,,Female,F,Biology,2023-04-16
+194,Mary Young,twenty,F,F,Biology,2026-15-01
+195,Morgan Taylor,-1,F,A,Mathematics,2020-11-29
+196,Melissa Casey,twenty,Female,Z,History,
+197,Jeffrey White,,F,Z,,2026-15-01
+198,Jesse Miller,,F,A,Physics,
+199,Desiree Vasquez,,,B,History,12/31/2025
+200,James Hale,,M,Z,History,2026-15-01
+201,Charles Miller,20,Male,D,,2021-06-15
+202,Stephanie Johnson,21,F,F,Biology,2021-11-19
+203,Patrick Lopez,18,F,A,Computer Science,2021-12-16
+204,Charles Williams,,M,A+,Physics,2024-08-09
+205,Scott Garcia,,,D,Biology,
+206,Nicole Anderson,twenty,,Z,History,
+207,John Davis,twenty,Female,D,Physics,2025-12-31
+208,Aaron Pena,twenty,M,A,Biology,
+209,Shelby Barber,24,M,D,Mathematics,12/31/2025
+210,Martin Mendez,-1,Male,F,Biology,12/31/2025
+211,Kevin Phillips,30,Male,A+,Mathematics,12/31/2025
+212,Jason Pittman,-1,Female,Z,History,12/31/2025
+213,Thomas Hart,30,,A,,2026-15-01
+214,Kimberly Mendoza,-1,Male,D,Biology,2024-06-24
+215,Brenda Davis,-1,,B,Mathematics,12/31/2025
+216,Matthew Francis,,Male,A+,Biology,2023-06-09
+217,Michelle Morgan,-1,Male,C,,12/31/2025
+218,Dr. Timothy Ramirez,twenty,Male,D,History,2026-15-01
+219,Jeff Sullivan,30,Male,F,History,
+220,Paula Campbell,-1,F,B,Mathematics,
+221,Jill Campos,25,F,A,History,12/31/2025
+222,Christopher Mitchell,-1,F,A+,History,
+223,Kristen Freeman,22,,C,History,
+224,Joseph Sanders,,M,B,Biology,
+225,Cody Hendricks,twenty,,C,Mathematics,
+226,Kenneth Diaz,26,F,D,Computer Science,12/31/2025
+227,Nicholas Watts,,,F,,2026-15-01
+228,Laura Leach,twenty,M,A+,Biology,2021-10-30
+229,Micheal Phillips,,M,A,Computer Science,12/31/2025
+230,Christine Sims,,M,A,,2023-10-05
+231,Brad Berg,twenty,Male,B,,
+232,Anna Taylor,-1,F,C,Computer Science,12/31/2025
+233,Veronica Meadows,twenty,,D,Mathematics,
+234,Jessica Sherman,-1,F,F,History,2021-10-08
+235,Sarah Mays,twenty,,A,History,12/31/2025
+236,Elizabeth Pierce,17,Female,A,Physics,2026-15-01
+237,Michael Hudson,,,Z,Biology,2026-15-01
+238,Pamela Chavez,-1,,A+,Computer Science,12/31/2025
+239,Natalie Haney DVM,twenty,Female,F,Computer Science,
+240,Carolyn Ford,25,,A+,Physics,2026-15-01
+241,Nicholas Chung,-1,Male,F,,2026-15-01
+242,Trevor Johnson,,F,A,History,
+243,Amy Byrd,twenty,Male,B,Computer Science,2022-01-12
+244,Laura Williams,18,,F,Biology,2020-09-11
+245,Olivia Ball,,F,A,Biology,12/31/2025
+246,Ryan Salazar DDS,-1,Female,A,Biology,2020-11-05
+247,Erin Briggs,21,F,F,,
+248,David Meyers,,Female,A,Mathematics,2026-15-01
+249,Katherine Walker,twenty,Male,C,Biology,
+250,Taylor Stewart,-1,M,D,Physics,2026-15-01
+251,John Perez,,M,D,History,12/31/2025
+252,Thomas Ritter,,Male,C,Computer Science,12/31/2025
+253,Crystal Smith,-1,,B,,2021-10-29
+254,Bill Sutton,twenty,F,F,History,12/31/2025
+255,George Dyer,17,M,A,Mathematics,2026-15-01
+256,Kathy Johnson,twenty,F,D,Mathematics,2026-15-01
+257,George Lewis,-1,Male,D,History,
+258,Leslie Wilson,twenty,M,B,Mathematics,2024-06-13
+259,Jacqueline Randolph MD,twenty,Female,A+,Mathematics,2026-15-01
+260,Alexander Sanchez,-1,Female,C,History,2026-15-01
+261,Tiffany Thomas,twenty,F,D,,2024-06-28
+262,Kimberly Woods,twenty,Female,Z,Mathematics,
+263,Jill Lee,-1,,A+,Computer Science,2025-12-31
+264,Lisa White,,F,D,Computer Science,12/31/2025
+265,Andrew Erickson,29,Male,F,Physics,2021-05-26
+266,Melissa Reese,-1,F,B,,12/31/2025
+267,Elizabeth Robinson,-1,,D,Biology,
+268,William Goodwin,20,F,F,Physics,2026-15-01
+269,Ronald Blake,-1,Male,F,Computer Science,2026-15-01
+270,Mr. David Cochran,25,M,A,Biology,12/31/2025
+271,James Martinez,-1,F,C,Physics,
+272,Michael Jackson,twenty,Male,F,Computer Science,2023-08-08
+273,Kristin Olsen,-1,M,B,Physics,2026-15-01
+274,Abigail Austin,,Male,B,Mathematics,12/31/2025
+275,Michelle Brown,twenty,,A+,Computer Science,
+276,Melissa Arnold,,,C,Biology,2026-15-01
+277,Bonnie Campos,27,,F,Biology,12/31/2025
+278,Patrick Orozco,30,Male,A,Mathematics,12/31/2025
+279,John Murphy,,M,B,Biology,
+280,Beth Wolfe,,Male,B,Physics,12/31/2025
+281,Tammy Lindsey,,Male,B,Physics,
+282,Wendy Hernandez,20,F,D,Mathematics,
+283,Dana Rivera,18,,A+,Mathematics,2024-08-19
+284,Michael Miller,,F,Z,Computer Science,
+285,Shelby Schultz DDS,twenty,,C,Mathematics,12/31/2025
+286,Maria Powell,twenty,M,D,Computer Science,12/31/2025
+287,Anthony Chavez,,Female,A,Mathematics,2025-09-05
+288,Scott Obrien,twenty,Male,Z,Computer Science,12/31/2025
+289,Brittany Flores,twenty,Male,F,History,2026-15-01
+290,Adam Salinas,30,,Z,Biology,2026-15-01
+291,Karen Hall,22,Male,A,Mathematics,12/31/2025
+292,Jennifer Kent DDS,-1,M,F,,12/31/2025
+293,Carla Thomas,twenty,Female,C,Physics,12/31/2025
+294,Jennifer Reyes,twenty,Female,D,Computer Science,
+295,Danielle Wheeler,-1,F,Z,History,2022-01-13
+296,John Davis,,Female,A,History,2023-01-07
+297,Darlene Nunez,-1,F,F,Mathematics,2024-10-02
+298,Amanda Ballard,,Female,B,Mathematics,12/31/2025
+299,Ariel Delgado,-1,Female,A,,12/31/2025
+300,Vanessa Edwards,,M,F,,2023-08-17
+301,George Brown,-1,F,B,,2026-15-01
+302,Laura Perkins,-1,M,F,,2023-03-13
+303,Adam Jackson,28,Female,A,Physics,12/31/2025
+304,Amy Ward DDS,,F,A,Computer Science,2025-08-07
+305,Larry Ross,21,,A+,Biology,12/31/2025
+306,Thomas Cole,twenty,M,D,Biology,
+307,Michele Lloyd,-1,M,B,,2023-08-23
+308,Teresa Davis,-1,Female,A+,Mathematics,2023-10-25
+309,Dorothy Mata,,M,C,Biology,2026-15-01
+310,Michele Mitchell,,Male,D,,
+311,Adam Douglas,,F,B,Physics,2026-15-01
+312,Gregory Dillon,-1,F,A+,Physics,2026-15-01
+313,Douglas Gutierrez,twenty,M,C,Computer Science,
+314,Kyle Cole,,,B,Computer Science,
+315,Carolyn Richardson,-1,Female,F,Biology,
+316,Wanda Espinoza,twenty,M,B,Mathematics,12/31/2025
+317,Justin Lynch,-1,M,Z,Physics,2020-09-29
+318,Stephanie Jones,twenty,M,D,Computer Science,2026-15-01
+319,Mark Patel,twenty,M,C,,2026-15-01
+320,Daniel Pena,,,A,,2021-04-20
+321,Alejandra Long,25,M,D,,2026-15-01
+322,Lauren Jefferson,-1,,Z,Mathematics,2026-15-01
+323,Sean Perez,24,Female,F,Biology,2026-15-01
+324,Haley White,twenty,,F,Computer Science,2021-01-15
+325,Jonathan Simon,-1,,F,Mathematics,2026-15-01
+326,Christopher Daniels,twenty,M,Z,Biology,2026-15-01
+327,Adam Lowe,-1,,Z,Computer Science,2026-15-01
+328,Albert Martinez,30,,A,Physics,
+329,Katie Rodriguez,twenty,Female,Z,History,
+330,David Gonzales,,Male,A,Physics,
+331,Daniel Bush,,,B,Physics,12/31/2025
+332,Steven Collins,,Male,Z,History,2020-11-27
+333,Jeffrey Brown,20,M,C,,
+334,Joseph Schultz,25,Female,A,Physics,2025-03-25
+335,Angel Lee,20,F,C,Mathematics,12/31/2025
+336,Molly Bailey,-1,Male,D,History,2023-03-06
+337,Mark Dixon,-1,F,A,Computer Science,2020-12-01
+338,Mark Gillespie,-1,F,F,Mathematics,12/31/2025
+339,Theresa Decker,,,C,Computer Science,2023-11-30
+340,Alex Collins,,,A,History,2026-15-01
+341,Sherri Brown,twenty,Male,Z,Biology,2024-04-16
+342,Stephanie Gonzalez,-1,,C,Physics,2023-04-04
+343,Victoria Valdez,22,,D,,12/31/2025
+344,Sara Parks,17,,A,Mathematics,
+345,Juan Bell,,,Z,,2026-15-01
+346,Kim Flores,-1,,F,,2025-11-05
+347,Mr. Wesley Carr,twenty,Male,A,Biology,2026-15-01
+348,Ruth Young,,Male,Z,History,2025-08-19
+349,David Miller,-1,Male,C,Computer Science,
+350,Donald Shea,twenty,Male,C,Mathematics,12/31/2025
+351,Christine Solomon,,F,A+,Physics,
+352,Kristina Mcgrath,,Male,F,Physics,2023-11-22
+353,Elizabeth Rivas,twenty,,A,Computer Science,
+354,Kevin Thornton,twenty,F,Z,Physics,12/31/2025
+355,Christopher Kim,,Male,F,Biology,2023-04-08
+356,Eric Moreno,,,F,Physics,2026-15-01
+357,Brian Butler,30,,C,Biology,2026-15-01
+358,Susan Johnson,,F,B,Mathematics,
+359,Marcus Shelton,twenty,F,C,Computer Science,2021-01-16
+360,Robert Campos,,Male,B,Physics,
+361,Jeffrey Lam,22,M,Z,History,2026-15-01
+362,Mrs. Joanna Yang DVM,twenty,F,F,Physics,
+363,Jennifer Valenzuela,-1,Female,Z,Mathematics,
+364,Kayla Turner,-1,Female,A,Biology,2026-15-01
+365,Jack Salazar,-1,Female,Z,History,
+366,Angela Washington,twenty,Male,Z,Mathematics,
+367,Deanna Cantrell,twenty,F,B,Physics,
+368,Madison Johnson,,Female,B,Computer Science,12/31/2025
+369,Louis Sanchez,,Female,A+,Computer Science,2026-15-01
+370,Regina Reynolds,,Male,A+,Computer Science,12/31/2025
+371,Ellen Maxwell,-1,F,D,Biology,2021-02-06
+372,Amanda Hayden,-1,M,B,,12/31/2025
+373,John Johnson,-1,Female,A,Computer Science,12/31/2025
+374,Anita Stevenson,twenty,F,A,History,2022-05-04
+375,Robert Martinez,24,M,C,History,
+376,Michael Winters,,,D,Mathematics,2023-10-17
+377,Grant Lyons,twenty,Female,D,,2020-11-23
+378,Patricia Martinez,twenty,,A+,Physics,
+379,Kimberly Lee,twenty,F,B,History,12/31/2025
+380,William Reeves,twenty,M,A,Computer Science,
+381,Christy Howell,23,Male,A+,Physics,
+382,Brianna Rivas,19,F,Z,Mathematics,2023-03-09
+383,William Flowers,-1,Female,Z,Computer Science,2024-06-23
+384,Aaron Carpenter,23,F,C,Physics,
+385,Steve Howard,18,Female,Z,History,2026-15-01
+386,Julie Ashley,,M,B,,2026-15-01
+387,Mrs. Phyllis Jones,-1,,C,,2026-15-01
+388,Aimee Robinson,19,M,F,,2024-05-23
+389,Alexis Morrison,22,,Z,,12/31/2025
+390,Adriana Coffey,,Female,D,Computer Science,
+391,Sean Williams,twenty,M,Z,Computer Science,12/31/2025
+392,Sarah Richardson PhD,twenty,F,A,,2026-15-01
+393,Virginia Williams,,F,B,,12/31/2025
+394,John Fields,twenty,,A+,Computer Science,
+395,Chelsea Sweeney,twenty,Male,A+,Mathematics,2023-06-25
+396,Sharon Clements,,Male,C,Computer Science,2026-15-01
+397,Joseph Robinson,twenty,Male,Z,History,2023-01-03
+398,Joseph Sharp,17,F,A+,Physics,2020-07-16
+399,Laura Hall,19,Female,F,,12/31/2025
+400,Mitchell Wells,,Male,B,Computer Science,
+401,Heather Pennington,,F,Z,Biology,2023-06-22
+402,Ryan Ward,26,Male,F,Biology,2024-11-11
+403,Richard Ramos,,,C,Physics,
+404,Steven Ewing,17,F,Z,Mathematics,2021-07-28
+405,Steven Garcia,-1,Male,A+,Biology,
+406,Mason Obrien,-1,Female,D,History,12/31/2025
+407,Mathew Pena,-1,Female,A,Physics,12/31/2025
+408,Thomas Velazquez,,Male,D,History,2025-03-10
+409,Elizabeth Riley,-1,Female,Z,Physics,2026-15-01
+410,Brian Mcmahon,-1,,A,Mathematics,
+411,Mark Keller,-1,M,A,Physics,12/31/2025
+412,Angela Barker,-1,,F,Biology,2026-15-01
+413,Maria Thomas,-1,M,F,Computer Science,2020-06-09
+414,Robert Hughes,-1,,C,,12/31/2025
+415,Robert Parker,-1,F,B,Mathematics,2020-07-10
+416,Matthew Powell,-1,Female,D,Computer Science,2026-15-01
+417,Arthur Miller,26,F,C,Physics,2020-11-21
+418,Bryan Murphy,,Female,F,Biology,12/31/2025
+419,Alan Ramirez,twenty,M,C,History,2024-02-02
+420,Ruth Mckenzie,-1,M,D,Computer Science,2023-09-06
+421,Matthew Ward,twenty,,B,Physics,2026-15-01
+422,Bryan Dominguez,28,,A,History,2026-15-01
+423,David Hernandez,-1,F,C,Physics,12/31/2025
+424,Jon Johnson,30,Female,B,Computer Science,
+425,Lawrence Brewer,twenty,M,C,History,12/31/2025
+426,Joseph Hernandez MD,,Female,C,History,2021-07-21
+427,Nathan Macias,-1,Female,F,Computer Science,
+428,Edgar Davis,twenty,Female,C,Computer Science,
+429,Debra Morgan,-1,,F,History,
+430,Stephanie Taylor,twenty,Female,B,,12/31/2025
+431,Mr. Justin Lam,twenty,Female,D,Mathematics,12/31/2025
+432,Bethany Lane,twenty,Male,A,Biology,2026-15-01
+433,Alexander Murphy,twenty,,A,,2026-15-01
+434,Laura Morgan,-1,,F,,
+435,Jill Stuart,28,M,F,,2024-12-19
+436,Sheila Reynolds,17,Female,F,Mathematics,
+437,Nathan King,twenty,Female,A+,Mathematics,2026-15-01
+438,Eric Garcia,-1,F,F,Computer Science,2026-15-01
+439,Jennifer Robinson,-1,M,Z,,2026-15-01
+440,Derrick Clark,,Male,Z,Biology,
+441,Robert Reed,,M,C,Computer Science,2026-15-01
+442,Robert Farmer,,,D,Physics,2026-15-01
+443,Joshua Carrillo,twenty,,D,Computer Science,12/31/2025
+444,Brandon Garrett,,,A,Computer Science,2026-15-01
+445,Katherine Espinoza,21,F,A,Mathematics,2026-15-01
+446,Antonio Kramer,30,Male,A,,
+447,Gabriel Taylor,19,Female,B,History,2026-15-01
+448,Erica Warner,twenty,Male,B,Physics,2022-08-14
+449,Jerry Miranda,-1,Female,C,Mathematics,12/31/2025
+450,Tom Hill,23,,C,Computer Science,12/31/2025
+451,Erik Lamb,twenty,,C,Biology,
+452,Jennifer Nelson,,M,D,,
+453,Thomas Randolph,twenty,F,D,Mathematics,12/31/2025
+454,James Harding,twenty,,F,Mathematics,
+455,Brett Bailey,,F,C,Mathematics,2024-11-23
+456,Brenda Jones,-1,M,A,Biology,12/31/2025
+457,Ricardo Johnson,twenty,Female,F,History,2026-15-01
+458,Austin Carroll,,,D,History,
+459,Dr. Richard Peck PhD,29,Male,D,History,2025-06-16
+460,Martin Oliver,,Female,A+,History,
+461,Timothy Clark,twenty,M,Z,History,2025-03-19
+462,Johnny Mcguire,twenty,,A,Mathematics,2026-15-01
+463,Howard Sutton,-1,Female,B,,2023-12-19
+464,Erica Porter,-1,Female,C,Physics,2023-06-28
+465,Jennifer Morris,twenty,M,F,History,
+466,Jeffrey Sanchez,-1,Female,A+,Mathematics,2026-15-01
+467,Shannon Rhodes,,M,B,,2022-05-23
+468,Kathy Jensen,twenty,F,F,History,2026-15-01
+469,Joseph Guerra,,Female,A+,Physics,2024-11-01
+470,Danielle Smith,-1,F,A+,Computer Science,
+471,Helen Collins,,Female,A,Mathematics,2022-07-05
+472,Kenneth Rodriguez,-1,Male,A+,History,2023-07-18
+473,Tammy Smith,twenty,M,C,Computer Science,2026-15-01
+474,Latoya Ray,twenty,Male,D,Physics,2026-15-01
+475,Gary Castillo,29,Female,A,Mathematics,2026-15-01
+476,Angela Wise,,Female,A,Physics,2023-09-15
+477,Stacey Figueroa,twenty,F,Z,Biology,
+478,Dr. Larry Hopkins,twenty,,Z,Mathematics,
+479,Christopher Hernandez,,M,A+,Computer Science,2022-04-24
+480,Jaclyn Sampson,20,F,D,Mathematics,2025-05-11
+481,Peggy Mullins,25,,C,,
+482,Allen Jacobs,twenty,Female,A+,Mathematics,12/31/2025
+483,Michael Jackson,21,M,A,,2023-03-30
+484,Emily Stevens,-1,F,A+,Physics,12/31/2025
+485,Michael Garcia,23,F,Z,History,2026-15-01
+486,Jose Davis,-1,,C,Physics,2020-05-20
+487,Elizabeth Mason,twenty,Male,Z,Biology,2026-15-01
+488,Stefanie Conley,-1,M,C,Mathematics,12/31/2025
+489,Joseph Todd,twenty,F,F,,2020-04-03
+490,Daniel Bowman,,Female,B,Physics,2026-15-01
+491,Courtney Gilmore,-1,F,F,History,2026-15-01
+492,Ryan Miller,twenty,Male,F,History,2024-05-16
+493,Mia Kennedy,-1,Male,F,,12/31/2025
+494,Christine Lara,,Male,A+,,
+495,David Snyder,twenty,M,Z,,12/31/2025
+496,Jerry Thompson,26,M,A+,Computer Science,
+497,Eric Martin,-1,Male,B,,12/31/2025
+498,Christina Jackson,twenty,Female,D,Mathematics,
+499,Sandra Taylor,twenty,Female,A+,Physics,
+500,David West,-1,F,Z,Physics,2026-15-01
+501,Dr. Tristan Shaffer Jr.,-1,F,C,,2026-15-01
+502,Andrew Martinez,twenty,M,C,Computer Science,2021-10-27
+503,Catherine Harris,twenty,,Z,Computer Science,2025-10-17
+504,Christopher Allen,,,Z,Mathematics,2023-08-23
+505,William Alexander,,Male,A+,Computer Science,2026-15-01
+506,Patrick Friedman,27,Female,A+,Mathematics,2024-03-16
+507,Katherine Austin,twenty,Male,Z,,
+508,Amanda Franklin,-1,M,A,Mathematics,
+509,Kimberly Lewis,17,Male,B,Physics,
+510,Sabrina Morris,23,F,C,Biology,2026-15-01
+511,Erin Walker,,F,F,Mathematics,2021-05-13
+512,Brandi Garcia,20,Female,Z,Physics,
+513,April Berry,-1,Female,A,Mathematics,2022-08-09
+514,Miguel Mays,twenty,M,A,Physics,2026-15-01
+515,Jeffrey Morales,-1,M,F,History,12/31/2025
+516,Christopher Hall,twenty,,B,Physics,2026-15-01
+517,Roy Clark,27,F,A,History,2026-15-01
+518,Chris Murray,-1,M,A,History,2026-15-01
+519,Susan Smith,twenty,Female,B,Physics,12/31/2025
+520,Andrew Hernandez,-1,Male,F,,12/31/2025
+521,Jessica Johnson,,,C,,12/31/2025
+522,Brian Hinton,-1,Male,C,,
+523,Laura Reed,,F,F,History,2026-15-01
+524,Kayla Martin,,Male,A,,2026-15-01
+525,Julian Conrad,twenty,Male,A+,Computer Science,2026-15-01
+526,Janice Burton,23,Female,F,,2024-05-05
+527,Shelia Delacruz,26,M,A,Biology,2022-09-09
+528,Lawrence Thompson,23,,A+,Biology,2025-09-07
+529,James Brown,25,Male,C,,12/31/2025
+530,Sarah Evans,twenty,,F,Mathematics,
+531,Amanda Carter,-1,M,F,Biology,12/31/2025
+532,Joshua Cook,24,,C,Mathematics,2021-01-09
+533,Alexandra Bell,twenty,,F,,
+534,Robert Wright,,Male,Z,Biology,
+535,Melissa Douglas,-1,M,Z,Biology,
+536,Shannon Jackson,twenty,Female,D,,2026-15-01
+537,Hayley Mcdaniel,twenty,,D,,12/31/2025
+538,Kristina Carter,,,D,History,12/31/2025
+539,Thomas Salinas,,F,F,History,
+540,Scott Wood,-1,F,F,,12/31/2025
+541,Alexis Carter,21,,Z,Biology,2026-15-01
+542,Wanda Spence,-1,,B,History,
+543,Gabriella Roberts,-1,F,Z,,
+544,Adrian Smith,,,F,Physics,12/31/2025
+545,Brianna Walker,,F,C,,
+546,Shawn Harris,twenty,Female,A+,,2024-04-12
+547,Alyssa Patterson,twenty,F,B,Biology,
+548,Robert Mason,21,M,F,Computer Science,2026-15-01
+549,Ashley Payne,26,Female,Z,History,2024-06-05
+550,Travis Carter,-1,M,C,History,2026-15-01
+551,Linda Davis,,F,A+,Biology,2024-09-11
+552,William Blackburn,,M,A,Computer Science,12/31/2025
+553,Lisa Scott,,Female,A,Computer Science,
+554,Alan Vargas,twenty,F,A+,Computer Science,2026-15-01
+555,Veronica Miller,25,F,Z,,
+556,Anthony Woods,17,M,F,Computer Science,
+557,Tammy Stevens,-1,M,D,Computer Science,2026-15-01
+558,Mr. Eric Lopez II,-1,Male,D,Mathematics,2024-07-31
+559,Daniel Shea,-1,,D,History,12/31/2025
+560,Samuel Wright,29,Female,B,Physics,2026-15-01
+561,Kevin Mays,twenty,Female,C,Biology,2026-15-01
+562,Carolyn Arnold,22,Male,Z,Physics,2026-15-01
+563,Diana Robinson,twenty,Female,B,History,12/31/2025
+564,Emma Perry,-1,Female,D,Biology,
+565,Kim Nelson,-1,M,Z,History,2022-02-27
+566,Stephanie Robbins,-1,Male,C,Physics,2026-15-01
+567,Robin Lewis,-1,F,A,History,
+568,Michelle Allen,,M,A,Physics,2023-06-16
+569,Valerie White,-1,Female,Z,Physics,
+570,Ronald Garcia,-1,,C,Physics,12/31/2025
+571,Elizabeth Perry,twenty,F,B,Physics,2020-04-06
+572,Isaac Kim,25,,A+,Physics,12/31/2025
+573,Paul Morris,twenty,Female,A+,,2026-15-01
+574,Thomas Ewing,,,A+,,2022-04-22
+575,Benjamin Wong,27,M,Z,,12/31/2025
+576,Gerald Dougherty,29,F,D,Mathematics,
+577,Eric Durham,twenty,Female,Z,Biology,12/31/2025
+578,Shawn Vega,twenty,M,B,Mathematics,
+579,April York,-1,,F,,
+580,Matthew Ortega,28,,Z,Mathematics,
+581,Barbara Phillips,30,F,A,History,2021-02-10
+582,Brandon Williams,,Female,Z,Mathematics,2023-04-20
+583,Erica Green,,F,F,Mathematics,12/31/2025
+584,Mr. Robert Manning DVM,21,,F,,12/31/2025
+585,Brian Smith,,M,B,History,12/31/2025
+586,Rebecca Henderson,25,Female,A+,Mathematics,
+587,Julia Rodgers,,F,B,Mathematics,2020-11-09
+588,Gregory Bush,,F,B,History,2026-15-01
+589,Susan Gilmore,-1,,C,Computer Science,2025-07-28
+590,Jordan Drake,28,F,B,Mathematics,
+591,Lisa Hayes,,F,F,History,2026-15-01
+592,Logan Reyes,,Male,C,,2026-15-01
+593,Dawn Wang,-1,,A,Mathematics,2026-15-01
+594,Edward Collins,17,Male,Z,,12/31/2025
+595,Kristen Hamilton,twenty,F,Z,Mathematics,2026-15-01
+596,Cynthia Morgan,25,F,B,History,2026-15-01
+597,Mary Beck,,,F,Computer Science,2021-06-23
+598,Emily Lopez,-1,,B,History,2025-03-21
+599,Brittany Wade,29,Male,B,Biology,
+600,Jeffrey Mann,20,F,Z,Computer Science,2026-15-01
+601,Cassandra Williams,,,C,,
+602,Erin Carroll,-1,F,A,Physics,12/31/2025
+603,Adam Jensen,-1,Female,A,Physics,
+604,Amanda Zavala,,F,A,Mathematics,12/31/2025
+605,Joyce Davis,17,M,D,,
+606,Michael Morris,,M,A,History,
+607,Angela Taylor,20,Male,B,Physics,12/31/2025
+608,Jennifer Bradley,-1,,F,Biology,12/31/2025
+609,Stephanie Ramirez,twenty,Female,D,Biology,12/31/2025
+610,Dana Pope,twenty,Female,D,Physics,2020-01-19
+611,Travis Stevens,,Male,F,Computer Science,12/31/2025
+612,Krista Peters,,Male,C,Biology,2025-12-04
+613,Robert Martin,29,M,A,History,2024-05-24
+614,Tammy Pearson,-1,Male,D,Biology,2023-05-01
+615,Sheila Daugherty,twenty,Female,Z,,2021-03-03
+616,Latoya Morrow,-1,,A,Mathematics,
+617,Kelly Bridges,-1,Female,A,,2026-15-01
+618,Brian Harrison,twenty,M,C,Computer Science,2026-15-01
+619,Jared Waller,twenty,Male,Z,Computer Science,2026-15-01
+620,Benjamin Smith,-1,M,B,Computer Science,12/31/2025
+621,Brandon Ramirez,,,F,History,2020-01-03
+622,Brian Hayes,,Male,F,Computer Science,2026-15-01
+623,Daniel Waller,,Male,C,Biology,2026-15-01
+624,Mark Pacheco,30,Male,C,Mathematics,12/31/2025
+625,Claire Baker,-1,Female,A+,,2025-04-16
+626,Mr. Victor Lara,19,M,B,Computer Science,2022-11-04
+627,Gary Hamilton,twenty,,A+,Physics,2026-15-01
+628,Mario Ross,twenty,Male,B,History,
+629,Timothy Guerrero,,F,D,History,
+630,Anita Peters,29,M,A,Biology,12/31/2025
+631,Sandra Kennedy,19,Male,D,Physics,2025-06-24
+632,Ashley Garner,-1,Female,F,Computer Science,12/31/2025
+633,Emily Bauer,-1,F,A,Physics,
+634,Zachary Austin,,Female,D,Mathematics,
+635,Aaron Best,twenty,F,F,Physics,2026-15-01
+636,Mary Gallegos,23,F,F,Mathematics,2020-01-24
+637,Robert Wang,twenty,Female,F,Physics,12/31/2025
+638,Janice Harrington,twenty,M,F,Mathematics,2026-15-01
+639,Carly Smith,-1,Male,Z,History,2025-01-20
+640,Pam Hammond,twenty,Male,C,Physics,2024-05-25
+641,Lisa Garcia,,Male,D,History,2021-06-09
+642,Bradley Lowe,-1,,A+,Mathematics,12/31/2025
+643,Daisy Horton,twenty,,D,History,
+644,Nicholas Cook,-1,Male,C,Mathematics,2026-15-01
+645,Daniel Compton,,Female,C,,2024-02-22
+646,Christopher Frederick,-1,Female,A+,,2026-15-01
+647,Ryan Thornton,twenty,F,A+,,2023-06-22
+648,Bobby Weber,,F,C,History,
+649,Bianca Kaiser,twenty,Male,A+,History,12/31/2025
+650,Kathleen Stone,,Male,Z,Biology,2022-11-24
+651,Reginald Harmon,26,Female,C,Mathematics,2024-10-08
+652,Alejandro Dillon,,,A+,Mathematics,2021-08-02
+653,Alyssa Krueger,,Female,D,,2026-15-01
+654,Brandon Burns,,Female,Z,Mathematics,2026-15-01
+655,Brittany Evans,twenty,,C,Mathematics,2026-15-01
+656,Michelle Oliver,23,Female,A+,Biology,2026-15-01
+657,Johnny Molina,twenty,Female,A,Biology,2022-03-24
+658,Stephanie James,,F,C,Biology,2021-05-27
+659,Michael King,twenty,F,F,Biology,12/31/2025
+660,Meagan Torres,twenty,Female,A,Mathematics,2023-11-29
+661,Brianna Warner,twenty,Male,F,Mathematics,12/31/2025
+662,Stephanie Shah,,Female,F,,
+663,Samantha Harrison,24,,C,Physics,
+664,Austin Murphy,,M,A,Biology,2026-15-01
+665,Jessica Smith,twenty,F,B,Biology,2024-06-11
+666,April Ward,21,F,C,Computer Science,12/31/2025
+667,Angela Ruiz,,M,C,Physics,
+668,Lisa Pearson,-1,M,A+,Mathematics,2026-15-01
+669,Robin Jackson,25,F,C,Physics,12/31/2025
+670,Candice Miller,23,Male,F,Computer Science,2026-15-01
+671,Kevin Jackson,-1,F,A,History,12/31/2025
+672,Danielle Thomas,twenty,Male,F,,2023-05-11
+673,Travis Carson,-1,M,D,History,2025-04-13
+674,Lisa White,twenty,Female,D,Computer Science,2020-12-21
+675,David Patel,twenty,M,A,History,2026-15-01
+676,Mary Acosta,twenty,Male,B,History,
+677,Russell Munoz,,,B,Biology,
+678,Shawn Todd,27,Female,D,Computer Science,2024-03-14
+679,Kevin Smith,-1,F,B,History,
+680,Dawn Willis,-1,Male,B,,2026-15-01
+681,Traci Ramirez,24,Male,D,,2023-08-25
+682,Curtis Tucker,twenty,Male,D,Biology,12/31/2025
+683,Michelle Wells,28,M,A,Biology,
+684,Terry Brown,19,M,F,Physics,
+685,Terry Arroyo,twenty,,B,History,
+686,Sarah Chan,-1,Female,B,Physics,
+687,Ricky King,twenty,Female,F,Mathematics,2026-15-01
+688,Lynn Johnson,27,F,A+,Computer Science,2026-15-01
+689,George Hunter,,Female,Z,Physics,2024-04-28
+690,Christine Martinez,,Female,Z,,2026-15-01
+691,Justin Cole,twenty,Female,F,Mathematics,2026-15-01
+692,Nicole Hendricks,21,,B,,2020-01-05
+693,Laura Maldonado,twenty,Female,C,Mathematics,2026-15-01
+694,Anthony Powell,-1,Female,A+,Biology,
+695,Amber Gonzalez,-1,,D,Computer Science,12/31/2025
+696,Theresa Howell,,,Z,Physics,
+697,Lori Walton,-1,,C,Mathematics,2023-09-30
+698,Jack Scott,-1,,B,Physics,2025-06-11
+699,Joshua Douglas,20,M,A+,Computer Science,2026-15-01
+700,Andrea Willis DDS,20,,F,,12/31/2025
+701,Shannon Snow,-1,Male,A,,2026-15-01
+702,Crystal Wade,twenty,Female,C,,2026-15-01
+703,Maurice Green,-1,Male,D,History,
+704,Dylan Wallace,-1,Male,B,History,2023-06-03
+705,Laura Stevenson,twenty,Female,F,Physics,
+706,Gary Blackburn,,F,B,Computer Science,
+707,Mandy Wood,21,,A+,,
+708,Traci Navarro,-1,Female,F,Computer Science,2023-12-04
+709,Marissa Richards,,F,A+,Mathematics,
+710,Victoria Stone,-1,F,D,History,2025-09-13
+711,Patrick Shields,,Male,Z,Biology,
+712,Stacey Bailey,,M,Z,,
+713,Ashley Salazar,twenty,Female,C,,2023-09-24
+714,Roger Medina,twenty,F,A+,,2026-15-01
+715,Marc Vaughn,,M,D,History,2026-15-01
+716,Miss Alicia Porter,,M,Z,Physics,2026-15-01
+717,Paul Gonzalez,,M,F,,2026-15-01
+718,Michael Jackson,27,M,A+,Computer Science,2022-06-07
+719,Gary Mcdonald,-1,M,F,Computer Science,12/31/2025
+720,William Curtis,-1,F,A,Mathematics,
+721,Linda Watson,,F,A,,2020-02-06
+722,Julian Evans,28,M,B,,2024-09-22
+723,Kathy Hoffman,,Male,B,Mathematics,2026-15-01
+724,Cynthia Mcneil,29,Female,C,Mathematics,2024-09-06
+725,Jenna Villarreal,twenty,Female,A,Biology,2024-07-22
+726,Sarah Perez,-1,Male,B,History,2026-15-01
+727,Juan Barry DDS,-1,Female,A,History,2026-15-01
+728,Bailey Scott,,,A,Physics,2026-15-01
+729,Alice Allen,twenty,Female,D,Mathematics,2026-15-01
+730,Sheri Kirby,19,M,B,Biology,12/31/2025
+731,Allen Baldwin,27,Male,F,Computer Science,12/31/2025
+732,Randy Crane,,M,Z,History,12/31/2025
+733,Allison Ferguson,-1,Male,A,Biology,2020-09-29
+734,Ashley Yang DDS,,,A+,Physics,2026-15-01
+735,Danielle Robinson,17,F,D,,2022-09-01
+736,Amanda Hanson,19,F,A+,Physics,2026-15-01
+737,Christopher Vasquez,17,F,Z,Physics,12/31/2025
+738,Alex Stout,20,Female,F,Physics,2024-04-12
+739,Duane Wallace,,Male,D,History,12/31/2025
+740,Adam Green,,,C,,12/31/2025
+741,Karen Sanchez,-1,,C,,12/31/2025
+742,Michael Kennedy,-1,M,A+,Physics,2024-07-05
+743,Sherri Tucker,twenty,F,A+,Mathematics,2021-02-19
+744,Robert Hartman,-1,F,Z,Computer Science,2026-15-01
+745,Robert Norris,twenty,M,Z,Mathematics,2024-06-11
+746,Christopher Yoder,-1,M,A+,Computer Science,
+747,Robert Smith,,M,A+,,12/31/2025
+748,Jeffrey Cole,-1,Male,C,Biology,2026-15-01
+749,Roger Garrison,twenty,F,B,History,2026-15-01
+750,Sarah Patterson,twenty,,A,Computer Science,
+751,Gina Chambers,25,Male,A+,Mathematics,
+752,Aaron Herring,18,,C,History,2025-02-11
+753,Bryan Stokes,,,D,History,2026-15-01
+754,Martha Kent,20,F,A,Biology,12/31/2025
+755,Michelle Morris,twenty,,F,Computer Science,2026-15-01
+756,Darrell Howard,,Male,A,Biology,12/31/2025
+757,Shane Rodriguez,-1,Male,A,Biology,2026-15-01
+758,Mary Cross,twenty,Male,A,History,12/31/2025
+759,Roberta Calderon,-1,,A,Biology,
+760,Tara Caldwell,,Male,C,Mathematics,
+761,Joshua Smith,,,C,,12/31/2025
+762,Mary Case,-1,Female,Z,History,2024-12-27
+763,Alexander Smith,28,,D,,
+764,James Moore,twenty,,C,History,
+765,Leslie Hudson,24,Male,D,Mathematics,12/31/2025
+766,Sheila Martinez,-1,M,B,Mathematics,2025-10-10
+767,Jimmy Fox,twenty,M,A+,,2026-15-01
+768,Bryan Gregory,-1,F,Z,Computer Science,12/31/2025
+769,Angel Espinoza,twenty,Male,Z,Physics,2026-15-01
+770,Samuel Hernandez,twenty,Male,A+,Mathematics,
+771,Ana Mitchell,27,,C,Physics,12/31/2025
+772,Donald Bean,twenty,Female,A+,History,12/31/2025
+773,Justin Rivera,-1,F,B,History,2020-03-13
+774,Gregg Khan,twenty,M,A,Biology,12/31/2025
+775,Victoria Lopez,twenty,F,Z,,12/31/2025
+776,Sean Sanchez,-1,Male,B,Physics,12/31/2025
+777,Stacy White,,F,F,History,2026-15-01
+778,Dr. Patricia Miller,twenty,Female,D,Computer Science,
+779,Paul Hunter,,M,C,Mathematics,
+780,Michael Woods,twenty,Female,B,,2026-15-01
+781,Stephen Young,-1,,A,Physics,2026-15-01
+782,Albert Singh,,Male,D,Computer Science,12/31/2025
+783,Megan Barnes,-1,Male,A,Mathematics,2025-10-18
+784,Erika Fisher,,M,D,History,2026-15-01
+785,Sandra Chen,,Male,A+,Biology,
+786,Brooke Gonzalez,27,,C,Biology,2026-15-01
+787,Joy Williams,21,Female,Z,Physics,
+788,George Adams,-1,,Z,,12/31/2025
+789,Erika Wagner,,Female,B,Biology,2024-06-14
+790,Michael Paul,twenty,F,A,,12/31/2025
+791,Megan Oliver,-1,Male,D,Computer Science,2021-03-13
+792,Stacey Thomas,22,F,A,Computer Science,12/31/2025
+793,Jamie Jones,-1,Female,A,,2020-03-14
+794,Christopher West,-1,F,C,Computer Science,2021-11-11
+795,Christian Fisher,-1,Female,A+,Computer Science,2026-15-01
+796,Mrs. Olivia Thompson,twenty,Female,C,History,
+797,Julie Stephenson,,Female,Z,Mathematics,2022-12-19
+798,Daniel Gonzalez,twenty,F,Z,,12/31/2025
+799,Lori King,-1,F,A,Physics,2023-11-12
+800,Melinda Massey MD,,Female,Z,Computer Science,
+801,George Lewis,-1,,D,,2021-03-04
+802,Barbara Palmer,30,,C,Computer Science,2023-12-16
+803,Mary Perez,19,M,F,Biology,
+804,Julia Stewart,-1,Male,C,History,
+805,Rebekah Spence,,M,A+,History,2026-15-01
+806,Erica Richmond,-1,Male,A,Computer Science,
+807,Kathleen Martin,28,F,C,History,12/31/2025
+808,Melissa Hunter,,M,A,Biology,
+809,Jackson Osborne,,F,D,Physics,2026-15-01
+810,Yesenia Aguilar,twenty,,D,Physics,12/31/2025
+811,Cole Martinez,twenty,Female,Z,Biology,
+812,Douglas Lewis,,F,Z,History,
+813,Anthony Richard,-1,Male,B,Computer Science,
+814,Jacqueline Burnett,-1,Female,D,Biology,2026-15-01
+815,Patrick Brown,-1,,C,,
+816,Suzanne Harrison,-1,Female,B,Physics,2020-03-26
+817,Christopher Wiley,,Female,C,History,2026-15-01
+818,Dalton Mann,24,,Z,Physics,2021-10-21
+819,Robert Hayes,-1,M,D,Biology,2026-15-01
+820,Ashley Nelson,23,Male,A,History,
+821,Darlene Leonard,22,,B,Computer Science,2026-15-01
+822,Amy Meyer,,M,B,Biology,12/31/2025
+823,Sherry White,-1,M,F,Mathematics,
+824,Courtney Everett,27,F,D,Computer Science,2024-12-09
+825,Joshua Miller,26,F,Z,Mathematics,2026-15-01
+826,Taylor Miller,-1,M,Z,Computer Science,
+827,Melissa Pope,,F,F,Physics,
+828,Carolyn Phillips,18,Male,D,,2026-15-01
+829,Lori Johnson,,Female,B,Biology,12/31/2025
+830,Julia Scott,-1,F,D,History,12/31/2025
+831,John Berg,30,Male,D,Biology,
+832,Briana Marshall,twenty,M,A,Computer Science,12/31/2025
+833,Jacob Jordan,,,F,,2026-15-01
+834,Emily Buchanan,-1,Female,Z,History,12/31/2025
+835,Brandon Ruiz,,,B,Computer Science,2022-03-14
+836,Henry Mitchell,twenty,Male,Z,History,2026-15-01
+837,Cody Mcguire,-1,,A,,12/31/2025
+838,John Smith,,F,D,Computer Science,2025-01-05
+839,Scott Richard,23,Male,A,History,2023-08-26
+840,Michael Burke,twenty,M,C,Physics,2026-15-01
+841,Brian Hernandez,-1,M,D,,2024-09-29
+842,Ashley Campbell,29,Female,A+,Physics,12/31/2025
+843,Pamela Alvarez,,F,A,History,2023-08-03
+844,Eric Lloyd,,Female,Z,Computer Science,12/31/2025
+845,Dominique Edwards,twenty,Male,A,Computer Science,
+846,Robert Casey,18,,C,,12/31/2025
+847,Sierra Jackson,twenty,M,F,,2026-15-01
+848,Ronald Mendez,-1,Male,B,,2022-08-20
+849,Catherine Jones,-1,M,Z,Physics,12/31/2025
+850,John Horton,,F,C,,2024-09-16
+851,Tara Andrews,,Female,B,History,2021-11-29
+852,Kenneth Walker,twenty,,D,Computer Science,
+853,Christopher Webb,23,M,D,Mathematics,2020-08-08
+854,Megan Reyes,-1,,C,Biology,2026-15-01
+855,Tiffany Cooke,,M,B,Biology,12/31/2025
+856,Thomas Harris,-1,Female,C,Computer Science,2026-15-01
+857,Shannon Moore,twenty,M,Z,Computer Science,2024-09-16
+858,Sandra Obrien,-1,,A,Mathematics,
+859,Denise Hodges,21,M,F,Physics,12/31/2025
+860,Allison Scott,-1,Female,A+,Biology,12/31/2025
+861,Catherine Fowler,-1,Female,A+,,12/31/2025
+862,Whitney Nguyen,,,B,Computer Science,12/31/2025
+863,Bethany Chapman,21,Male,A+,Computer Science,2022-06-04
+864,Greg Lane,twenty,F,A,Computer Science,2023-04-11
+865,Joshua Hansen,twenty,M,Z,Physics,2026-15-01
+866,Joseph Ray,,Female,Z,Computer Science,2020-07-13
+867,Steven Baker,,Male,A,History,
+868,Mariah Brooks,twenty,Male,A,Biology,12/31/2025
+869,Jessica Lane,,,A,Biology,12/31/2025
+870,Elizabeth Carlson,27,F,F,Mathematics,2024-04-10
+871,Karen Hess,,Male,A,Physics,2020-12-07
+872,Mark Edwards,-1,M,A+,Computer Science,2026-15-01
+873,Diane Mckinney,22,M,A,Computer Science,2026-15-01
+874,Carl Scott,twenty,F,F,History,
+875,Joseph Myers,twenty,F,A,Mathematics,
+876,Steve Murray,-1,Female,C,Biology,12/31/2025
+877,Julia Bridges,,Female,F,Biology,2026-15-01
+878,Stacy Powell,-1,,C,Biology,2026-15-01
+879,Dustin Brown,29,Male,F,Biology,12/31/2025
+880,Karla Short,twenty,F,A,Computer Science,
+881,Colleen Rice,,Female,B,Biology,2026-15-01
+882,David Solis,twenty,F,A+,Computer Science,2021-11-02
+883,Denise Jimenez,-1,F,Z,,12/31/2025
+884,Lawrence Klein,-1,,Z,Biology,12/31/2025
+885,Tracy Ward,,,D,Mathematics,
+886,Matthew Miller III,twenty,Male,D,Biology,2023-05-12
+887,Sean Butler,twenty,F,D,,12/31/2025
+888,Kathryn Bean,20,Male,A+,History,2024-12-06
+889,Mr. Kevin Bradley,,Male,A,Mathematics,2026-15-01
+890,David Anderson,-1,F,F,History,
+891,Kimberly Alvarez,,F,F,Physics,
+892,Elizabeth Guerra,,Female,Z,Mathematics,
+893,Joseph Black,twenty,M,A,,12/31/2025
+894,Sara Reed,26,Female,A+,Biology,
+895,Katie Tanner,,F,D,Physics,12/31/2025
+896,Adrian Francis,19,Female,C,Mathematics,
+897,Ashley Chapman,twenty,Female,Z,Computer Science,2021-12-11
+898,Matthew Berger,-1,Female,D,History,2022-06-29
+899,Miguel Little,21,Female,A+,Computer Science,
+900,Scott Stuart,,Female,A+,Biology,2024-01-19
+901,Kimberly Shepherd,-1,M,Z,History,2026-15-01
+902,Kimberly Gibson,-1,F,C,Computer Science,2020-09-16
+903,Theresa Glenn,twenty,,F,Mathematics,
+904,Richard Fisher,21,F,B,Computer Science,12/31/2025
+905,Natasha Munoz,29,M,A,Biology,
+906,Michael Roach,twenty,Female,Z,Mathematics,12/31/2025
+907,Jon Roberson,twenty,M,Z,,2023-04-10
+908,Elizabeth Boyd,twenty,,A,Computer Science,
+909,Paul Morrison,-1,M,B,Physics,
+910,Casey Hart,21,F,F,,2026-15-01
+911,John Parker,-1,Male,Z,Physics,
+912,Denise Melton,-1,M,B,Biology,12/31/2025
+913,Jessica Johnson,twenty,M,D,Computer Science,
+914,Kyle Williams,twenty,Male,C,Mathematics,2026-15-01
+915,Leslie Harrison,,Male,D,Computer Science,
+916,Patricia Martin,twenty,M,A+,,12/31/2025
+917,Mary Johnson,25,,C,Computer Science,12/31/2025
+918,Joshua Miller,25,Male,A+,Physics,2021-08-17
+919,Nathan Johnson,21,Female,D,,2022-03-19
+920,Tracy Davis,,F,B,Biology,2026-15-01
+921,Lonnie Thomas,twenty,Female,B,Computer Science,2026-15-01
+922,Philip King,-1,Female,A,Mathematics,2020-08-11
+923,Raven Rodriguez,twenty,,Z,,2023-10-12
+924,Patricia Adams,21,Male,A,,2026-15-01
+925,William Mcclure,,F,F,Mathematics,2021-04-06
+926,Steven Reyes,twenty,F,A+,Physics,
+927,Valerie Peterson,,F,F,Physics,2026-15-01
+928,Kristy Barber,twenty,F,B,Computer Science,2025-02-02
+929,Nathaniel Lopez,twenty,,A+,History,12/31/2025
+930,Katherine Gonzalez,28,Female,F,,12/31/2025
+931,Michael Nguyen,twenty,Female,A+,Computer Science,2020-02-03
+932,Elizabeth Mendoza,-1,F,B,,12/31/2025
+933,Samuel Smith,-1,M,A,,
+934,Paula Williams,,F,A,Physics,2026-15-01
+935,Mrs. Brittany Summers,,,D,Computer Science,
+936,Patrick Flores,twenty,,Z,Mathematics,2026-15-01
+937,Diana Ruiz,24,Male,D,,2020-02-21
+938,Martha Gibson,,Male,F,Physics,2025-12-22
+939,James Garner,20,F,C,Physics,12/31/2025
+940,Daniel Peterson,18,Male,F,History,2026-15-01
+941,Kaitlin Rodriguez,,Male,D,,12/31/2025
+942,Steven Bennett,-1,Male,Z,History,12/31/2025
+943,Cameron Terry,-1,,F,Mathematics,2024-01-02
+944,Matthew Yu,,M,F,Computer Science,
+945,Katherine King,17,Male,F,Mathematics,2025-12-10
+946,Jennifer Alvarez,-1,Female,A+,Biology,12/31/2025
+947,Vanessa Martin,,F,B,Computer Science,2020-02-18
+948,Jennifer Johnson,twenty,Male,A+,,12/31/2025
+949,Erin Holloway,28,M,D,History,2026-15-01
+950,Jacqueline Jensen,,Female,Z,Mathematics,12/31/2025
+951,Christopher Clark,-1,Female,B,History,2020-10-20
+952,Kevin Powers,-1,Male,A,Biology,12/31/2025
+953,Lindsey Carter,twenty,,B,History,
+954,Theresa Stephenson,,Male,B,Biology,2026-15-01
+955,Teresa Larson,twenty,Female,Z,,2025-03-01
+956,Larry Yang,25,Male,A+,,12/31/2025
+957,Sophia Diaz,-1,F,C,Physics,2026-15-01
+958,Donna Morrison,18,,D,Computer Science,2026-15-01
+959,William Hall,28,Male,F,Computer Science,12/31/2025
+960,Craig Olson,28,,C,Mathematics,2026-15-01
+961,Whitney Miller,,Female,D,Biology,12/31/2025
+962,Victor Soto,23,Female,F,Biology,2026-15-01
+963,Thomas Martinez,-1,F,Z,Biology,12/31/2025
+964,Jennifer Wong,,,C,Computer Science,12/31/2025
+965,Ivan Peterson,,F,Z,Biology,12/31/2025
+966,Bryce Cook,twenty,Male,C,History,12/31/2025
+967,Lisa Ramirez,,M,A+,Mathematics,
+968,Jennifer Gonzales MD,-1,M,A,Physics,2020-02-17
+969,Seth Williams,24,Male,F,Physics,12/31/2025
+970,Vickie Drake,25,Male,A+,Computer Science,12/31/2025
+971,Kirsten Hodges,twenty,Female,A+,Computer Science,2026-15-01
+972,Rhonda Mitchell,-1,,D,Computer Science,2026-15-01
+973,Lisa Hernandez,-1,Female,F,Computer Science,
+974,William Walker,,Male,A+,History,
+975,Mrs. Mary Morales,twenty,Female,C,,2026-15-01
+976,Samantha Adams,twenty,F,A,,2024-04-14
+977,Francisco Rivera,-1,M,A+,Mathematics,2026-15-01
+978,Jonathan Garcia,20,F,B,History,2026-15-01
+979,Shirley Kelly,-1,,C,Computer Science,2026-15-01
+980,Alicia Fuller,24,F,A+,,
+981,Robert Dunlap,-1,Female,C,History,2022-02-08
+982,Gregory Wang,,M,B,Mathematics,12/31/2025
+983,Peter Conley,,,C,History,
+984,Cameron Tucker,-1,Male,D,Computer Science,2026-15-01
+985,Nathan Dennis,twenty,F,D,Mathematics,2026-15-01
+986,Paul Lee,,Female,D,,12/31/2025
+987,Erin Hobbs,,Female,B,Biology,
+988,Matthew Ryan MD,-1,F,A,Mathematics,12/31/2025
+989,Chelsea Skinner,25,Male,D,Physics,2026-15-01
+990,Patricia Anderson,-1,Female,C,Physics,12/31/2025
+991,Henry Wood,twenty,M,D,,2024-08-03
+992,Tyler Cole,-1,Female,Z,History,2020-07-11
+993,Joyce Murillo,-1,F,C,,12/31/2025
+994,Anthony Gonzalez,twenty,,F,History,12/31/2025
+995,Mrs. Debra Bell,twenty,,F,History,12/31/2025
+996,Mark Garcia,twenty,,C,Computer Science,2026-15-01
+997,Jessica Madden,twenty,,A+,Computer Science,12/31/2025
+998,Erin Dunn,-1,Male,F,Biology,
+999,Tamara Moreno,twenty,M,A,Mathematics,2026-15-01
+1000,Brittany Fox,twenty,Male,D,,2026-15-01

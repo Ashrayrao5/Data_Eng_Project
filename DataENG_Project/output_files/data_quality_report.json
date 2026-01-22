@@ -1,0 +1,16 @@
+{
+  "sales_quality": {
+    "total_records": 1000,
+    "missing_dates": 649,
+    "zero_prices": 517,
+    "zero_quantity": 685,
+    "avg_total_value": 1114.721
+  },
+  "student_quality": {
+    "total_records": 1000,
+    "missing_ages": 515,
+    "missing_enrollment_dates": 510,
+    "missing_majors": 172,
+    "avg_age": 21.61855670103093
+  }
+}
