@@ -22,7 +22,7 @@ Real-world data is messy. This pipeline automatically handles:
 |------------|---------|----------|
 | **Invalid Dates** | `2026-13-01` (month 13) | Validate month 1-12, reject invalid |
 | **Negative Quantities** | `Quantity: -5` | Convert to 0 (can't have negative inventory) |
-| **Negative Prices** | `Price: -20.5` | Convert to 0.0, flag as invalid |
+| **Negative Prices** | `Price: -20.5` | Convert to '20.5'(thinking that as a input error), flag as invalid |
 | **Missing Values** | Empty fields, `N/A` | Convert to NULL or default values |
 | **Multiple Date Formats** | `8/10/2025`, `2025-08-10` | Parse all common formats |
 | **Age Word Representations** | `"twenty"` | Convert to 20 |
